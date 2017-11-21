@@ -1,0 +1,356 @@
+,city_town,senate_district
+0,abington,['Norfolk & Plymouth']
+1,acton,['Middlesex & Worcester']
+2,acushnet,['Second Bristol & Plymouth']
+3,adams,"['Berkshire, Hampshire, Franklin & Hampden']"
+4,agawam,['Second Hampden & Hampshire']
+5,alford,"['Berkshire, Hampshire, Franklin & Hampden']"
+6,amesbury,['First Essex']
+7,amherst,"['Hampshire, Franklin & Worcester']"
+8,andover,['Second Essex & Middlesex']
+9,aquinnah,['Cape & Isl&s']
+10,arlington,['Fourth Middlesex']
+11,ashburnham,"['Worcester, Hampden, Hampshire & Middlesex']"
+12,ashby,"['Worcester, Hampden, Hampshire & Middlesex']"
+13,ashfield,"['Berkshire, Hampshire, Franklin & Hampden']"
+14,ashland,['Second Middlesex & Norfolk']
+15,athol,"['Worcester, Hampden, Hampshire & Middlesex']"
+16,attleboro,"['Bristol & Norfolk', 'Norfolk, Bristol & Middlesex']"
+17,auburn,['Second Worcester']
+18,avon,"['Norfolk, Bristol & Plymouth']"
+19,ayer,['Middlesex & Worcester']
+20,barnstable,['Cape & Isl&s']
+21,barre,"['Worcester, Hampden, Hampshire & Middlesex']"
+22,becket,"['Berkshire, Hampshire, Franklin & Hampden']"
+23,bedford,['Third Middlesex']
+24,belchertown,['First Hampden & Hampshire']
+25,bellingham,['Worcester & Norfolk']
+26,belmont,['Second Suffolk & Middlesex']
+27,berkley,['First Plymouth & Bristol']
+28,berlin,['Worcester & Middlesex']
+29,bernardston,"['Hampshire, Franklin & Worcester']"
+30,beverly,['Second Essex']
+31,billerica,['Fourth Middlesex']
+32,blackstone,['Worcester & Norfolk']
+33,blandford,"['Berkshire, Hampshire, Franklin & Hampden']"
+34,bolton,['Worcester & Middlesex']
+35,boston,"['Middlesex & Suffolk', 'Norfolk & Suffolk', 'First Suffolk', 'Second Suffolk', 'First Suffolk & Middlesex', 'Second Suffolk & Middlesex']"
+36,bourne,['Plymouth & Barnstable']
+37,boxborough,['Middlesex & Worcester']
+38,boxford,['First Essex & Middlesex']
+39,boylston,['First Worcester']
+40,braintree,"['Norfolk, Bristol & Plymouth', 'Norfolk & Plymouth']"
+41,brewster,['Cape & Isl&s']
+42,bridgewater,['First Plymouth & Bristol']
+43,brimfield,"['Worcester, Hampden, Hampshire & Middlesex']"
+44,brockton,['Second Plymouth & Bristol']
+45,brookfield,"['Worcester, Hampden, Hampshire & Middlesex']"
+46,brookline,['First Middlesex & Norfolk']
+47,buckland,"['Berkshire, Hampshire, Franklin & Hampden']"
+48,burlington,['Fourth Middlesex']
+49,cambridge,"['Second Middlesex', 'Middlesex & Suffolk', 'First Suffolk & Middlesex']"
+50,canton,"['Norfolk, Bristol & Plymouth']"
+51,carlisle,['Third Middlesex']
+52,carver,['First Plymouth & Bristol']
+53,charlemont,"['Berkshire, Hampshire, Franklin & Hampden']"
+54,charlton,"['Worcester, Hampden, Hampshire & Middlesex']"
+55,chatham,['Cape & Isl&s']
+56,chelmsford,['Third Middlesex']
+57,chelsea,['Middlesex & Suffolk']
+58,cheshire,"['Berkshire, Hampshire, Franklin & Hampden']"
+59,chester,"['Berkshire, Hampshire, Franklin & Hampden']"
+60,chesterfield,"['Berkshire, Hampshire, Franklin & Hampden']"
+61,chicopee,"['Hampden', 'First Hampden & Hampshire', 'Second Hampden & Hampshire']"
+62,chilmark,['Cape & Isl&s']
+63,clarksburg,"['Berkshire, Hampshire, Franklin & Hampden']"
+64,clinton,"['First Worcester', 'Worcester & Middlesex']"
+65,cohasset,['Plymouth & Norfolk']
+66,colrain,"['Hampshire, Franklin & Worcester']"
+67,concord,['Third Middlesex']
+68,conway,"['Berkshire, Hampshire, Franklin & Hampden']"
+69,cummington,"['Berkshire, Hampshire, Franklin & Hampden']"
+70,dalton,"['Berkshire, Hampshire, Franklin & Hampden']"
+71,danvers,['Second Essex']
+72,dartmouth,['Second Bristol & Plymouth']
+73,dedham,['Norfolk & Suffolk']
+74,deerfield,"['Hampshire, Franklin & Worcester']"
+75,dennis,['Cape & Isl&s']
+76,dighton,['First Plymouth & Bristol']
+77,douglas,['Worcester & Norfolk']
+78,dover,['Norfolk & Suffolk']
+79,dracut,['Second Essex & Middlesex']
+80,dudley,['Worcester & Norfolk']
+81,dunstable,['First Middlesex']
+82,duxbury,['Plymouth & Norfolk']
+83,east bridgewater,"['Norfolk, Bristol & Plymouth', 'Second Plymouth & Bristol']"
+84,east brookfield,"['Worcester, Hampden, Hampshire & Middlesex']"
+85,east longmeadow,['First Hampden & Hampshire']
+86,eastham,['Cape & Isl&s']
+87,easthampton,['Second Hampden & Hampshire']
+88,easton,"['Norfolk, Bristol & Plymouth', 'Second Plymouth & Bristol']"
+89,edgartown,['Cape & Isl&s']
+90,egremont,"['Berkshire, Hampshire, Franklin & Hampden']"
+91,erving,"['Hampshire, Franklin & Worcester']"
+92,essex,['First Essex & Middlesex']
+93,essex county,[nan]
+94,everett,['Middlesex & Suffolk']
+95,fairhaven,['Second Bristol & Plymouth']
+96,fall river,['First Bristol & Plymouth']
+97,falmouth,['Plymouth & Barnstable']
+98,fitchburg,['Worcester & Middlesex']
+99,florida,"['Berkshire, Hampshire, Franklin & Hampden']"
+100,foxborough,['Bristol & Norfolk']
+101,framingham,['Second Middlesex & Norfolk']
+102,franklin,"['Second Middlesex & Norfolk', 'Norfolk, Bristol & Middlesex']"
+103,freetown,['First Bristol & Plymouth']
+104,gardner,['Worcester & Middlesex']
+105,georgetown,['First Essex & Middlesex']
+106,gill,"['Hampshire, Franklin & Worcester']"
+107,gloucester,['First Essex & Middlesex']
+108,goshen,"['Berkshire, Hampshire, Franklin & Hampden']"
+109,gosnold,['Cape & Isl&s']
+110,grafton,['Second Worcester']
+111,granby,['First Hampden & Hampshire']
+112,granville,['Second Hampden & Hampshire']
+113,great barrington,"['Berkshire, Hampshire, Franklin & Hampden']"
+114,greenfield,"['Hampshire, Franklin & Worcester']"
+115,groton,['First Middlesex']
+116,groveland,['First Essex & Middlesex']
+117,hadley,"['Hampshire, Franklin & Worcester']"
+118,halifax,['Second Plymouth & Bristol']
+119,hamilton,['First Essex & Middlesex']
+120,hampden,['First Hampden & Hampshire']
+121,hancock,"['Berkshire, Hampshire, Franklin & Hampden']"
+122,hanover,['Second Plymouth & Bristol']
+123,hanson,['Second Plymouth & Bristol']
+124,hardwick,"['Worcester, Hampden, Hampshire & Middlesex']"
+125,harvard,['Middlesex & Worcester']
+126,harwich,['Cape & Isl&s']
+127,hatfield,"['Hampshire, Franklin & Worcester']"
+128,haverhill,['First Essex']
+129,hawley,"['Berkshire, Hampshire, Franklin & Hampden']"
+130,heath,"['Berkshire, Hampshire, Franklin & Hampden']"
+131,hingham,['Plymouth & Norfolk']
+132,hinsdale,"['Berkshire, Hampshire, Franklin & Hampden']"
+133,holbrook,['Norfolk & Plymouth']
+134,holden,['First Worcester']
+135,holland,"['Worcester, Hampden, Hampshire & Middlesex']"
+136,holliston,['Second Middlesex & Norfolk']
+137,holyoke,['Second Hampden & Hampshire']
+138,hopedale,['Worcester & Norfolk']
+139,hopkinton,['Second Middlesex & Norfolk']
+140,hubbardston,"['Worcester, Hampden, Hampshire & Middlesex']"
+141,hudson,['Middlesex & Worcester']
+142,hull,['Plymouth & Norfolk']
+143,huntington,"['Berkshire, Hampshire, Franklin & Hampden']"
+144,ipswich,['First Essex & Middlesex']
+145,kingston,['Plymouth & Barnstable']
+146,lakeville,['First Bristol & Plymouth']
+147,lancaster,['Worcester & Middlesex']
+148,lanesborough,"['Berkshire, Hampshire, Franklin & Hampden']"
+149,lawrence,['Second Essex & Middlesex']
+150,lee,"['Berkshire, Hampshire, Franklin & Hampden']"
+151,leicester,['Second Worcester']
+152,lenox,"['Berkshire, Hampshire, Franklin & Hampden']"
+153,leominster,['Worcester & Middlesex']
+154,leverett,"['Hampshire, Franklin & Worcester']"
+155,lexington,"['Third Middlesex', 'Fourth Middlesex']"
+156,leyden,"['Hampshire, Franklin & Worcester']"
+157,lincoln,['Third Middlesex']
+158,littleton,['Middlesex & Worcester']
+159,longmeadow,['First Hampden & Hampshire']
+160,lowell,['First Middlesex']
+161,ludlow,['First Hampden & Hampshire']
+162,lunenburg,['Worcester & Middlesex']
+163,lynn,['Third Essex']
+164,lynnfield,['Third Essex']
+165,malden,['Fifth Middlesex']
+166,manchester-by-the-sea,['First Essex & Middlesex']
+167,mansfield,['Bristol & Norfolk']
+168,marblehead,['Third Essex']
+169,marion,['First Plymouth & Bristol']
+170,marlborough,['Middlesex & Worcester']
+171,marshfield,['Plymouth & Norfolk']
+172,mashpee,['Cape & Isl&s']
+173,mattapoisett,['Second Bristol & Plymouth']
+174,maynard,['Middlesex & Worcester']
+175,medfield,['Bristol & Norfolk']
+176,medford,['Second Middlesex']
+177,medway,['Second Middlesex & Norfolk']
+178,melrose,['Fifth Middlesex']
+179,mendon,['Worcester & Norfolk']
+180,merrimac,['First Essex']
+181,methuen,['First Essex']
+182,middleborough,['First Plymouth & Bristol']
+183,middlefield,"['Berkshire, Hampshire, Franklin & Hampden']"
+184,middleton,['First Essex & Middlesex']
+185,milford,['Worcester & Norfolk']
+186,millbury,['Second Worcester']
+187,millis,"['Norfolk, Bristol & Middlesex']"
+188,millville,['Worcester & Norfolk']
+189,milton,"['Norfolk, Bristol & Plymouth']"
+190,monroe,"['Berkshire, Hampshire, Franklin & Hampden']"
+191,monson,"['Worcester, Hampden, Hampshire & Middlesex']"
+192,montague,"['Hampshire, Franklin & Worcester']"
+193,monterey,"['Berkshire, Hampshire, Franklin & Hampden']"
+194,montgomery,['Second Hampden & Hampshire']
+195,mount washington,"['Berkshire, Hampshire, Franklin & Hampden']"
+196,nahant,['Third Essex']
+197,nan,['First Essex & Middlesex']
+198,nantucket,['Cape & Isl&s']
+199,natick,"['Second Middlesex & Norfolk', 'Norfolk, Bristol & Middlesex']"
+200,needham,"['Norfolk, Bristol & Middlesex', 'Norfolk & Suffolk']"
+201,new ashford,"['Berkshire, Hampshire, Franklin & Hampden']"
+202,new bedford,['Second Bristol & Plymouth']
+203,new braintree,"['Worcester, Hampden, Hampshire & Middlesex']"
+204,new marlborough,"['Berkshire, Hampshire, Franklin & Hampden']"
+205,new salem,"['Hampshire, Franklin & Worcester']"
+206,newbury,['First Essex & Middlesex']
+207,newburyport,['First Essex']
+208,newton,['First Middlesex & Norfolk']
+209,norfolk,"['Norfolk, Bristol & Middlesex']"
+210,norfolk and suffolk,[nan]
+211,north adams,"['Berkshire, Hampshire, Franklin & Hampden']"
+212,north andover,"['First Essex', 'First Essex & Middlesex']"
+213,north attleborough,"['Norfolk, Bristol & Middlesex']"
+214,north brookfield,"['Worcester, Hampden, Hampshire & Middlesex']"
+215,north reading,['First Essex & Middlesex']
+216,northampton,"['Hampshire, Franklin & Worcester']"
+217,northborough,"['Middlesex & Worcester', 'First Worcester']"
+218,northbridge,"['Second Worcester', 'Worcester & Norfolk']"
+219,northfield,"['Hampshire, Franklin & Worcester']"
+220,norton,['Bristol & Norfolk']
+221,norwell,['Plymouth & Norfolk']
+222,norwood,['Norfolk & Suffolk']
+223,oak bluffs,['Cape & Isl&s']
+224,oakham,"['Worcester, Hampden, Hampshire & Middlesex']"
+225,orange,"['Hampshire, Franklin & Worcester']"
+226,orleans,['Cape & Isl&s']
+227,otis,"['Berkshire, Hampshire, Franklin & Hampden']"
+228,oxford,['Worcester & Norfolk']
+229,palmer,"['Worcester, Hampden, Hampshire & Middlesex']"
+230,paxton,"['Worcester, Hampden, Hampshire & Middlesex']"
+231,peabody,['Second Essex']
+232,pelham,"['Hampshire, Franklin & Worcester']"
+233,pembroke,['Plymouth & Barnstable']
+234,pepperell,['First Middlesex']
+235,peru,"['Berkshire, Hampshire, Franklin & Hampden']"
+236,petersham,"['Worcester, Hampden, Hampshire & Middlesex']"
+237,phillipston,"['Worcester, Hampden, Hampshire & Middlesex']"
+238,pittsfield,"['Berkshire, Hampshire, Franklin & Hampden']"
+239,plainfield,"['Berkshire, Hampshire, Franklin & Hampden']"
+240,plainville,"['Norfolk, Bristol & Middlesex']"
+241,plymouth,['Plymouth & Barnstable']
+242,plympton,['Second Plymouth & Bristol']
+243,princeton,['First Worcester']
+244,provincetown,['Cape & Isl&s']
+245,quincy,['Norfolk & Plymouth']
+246,randolph,"['Norfolk, Bristol & Plymouth']"
+247,raynham,['First Plymouth & Bristol']
+248,reading,['Fifth Middlesex']
+249,rehoboth,['Bristol & Norfolk']
+250,revere,['First Suffolk & Middlesex']
+251,richmond,"['Berkshire, Hampshire, Franklin & Hampden']"
+252,rochester,['First Bristol & Plymouth']
+253,rockland,['Norfolk & Plymouth']
+254,rockport,['First Essex & Middlesex']
+255,rowe,"['Berkshire, Hampshire, Franklin & Hampden']"
+256,rowley,['First Essex & Middlesex']
+257,royalston,"['Hampshire, Franklin & Worcester']"
+258,russell,['Second Hampden & Hampshire']
+259,rutland,"['Worcester, Hampden, Hampshire & Middlesex']"
+260,salem,['Second Essex']
+261,salisbury,['First Essex']
+262,sandisfield,"['Berkshire, Hampshire, Franklin & Hampden']"
+263,sandwich,['Plymouth & Barnstable']
+264,saugus,['Third Essex']
+265,savoy,"['Berkshire, Hampshire, Franklin & Hampden']"
+266,scituate,['Plymouth & Norfolk']
+267,seekonk,['Bristol & Norfolk']
+268,sharon,"['Bristol & Norfolk', 'Norfolk, Bristol & Plymouth']"
+269,sheffield,"['Berkshire, Hampshire, Franklin & Hampden']"
+270,shelburne,"['Berkshire, Hampshire, Franklin & Hampden']"
+271,sherborn,"['Norfolk, Bristol & Middlesex']"
+272,shirley,['Middlesex & Worcester']
+273,shrewsbury,['Second Worcester']
+274,shutesbury,"['Hampshire, Franklin & Worcester']"
+275,somerset,['First Bristol & Plymouth']
+276,somerville,['Second Middlesex']
+277,south hadley,"['Hampshire, Franklin & Worcester']"
+278,southampton,['Second Hampden & Hampshire']
+279,southborough,['Middlesex & Worcester']
+280,southbridge,['Worcester & Norfolk']
+281,southwick,['Second Hampden & Hampshire']
+282,spencer,"['Worcester, Hampden, Hampshire & Middlesex']"
+283,springfield,"['Hampden', 'First Hampden & Hampshire']"
+284,sterling,['Worcester & Middlesex']
+285,stockbridge,"['Berkshire, Hampshire, Franklin & Hampden']"
+286,stoneham,['Fifth Middlesex']
+287,stoughton,"['Norfolk, Bristol & Plymouth']"
+288,stow,['Middlesex & Worcester']
+289,sturbridge,"['Worcester, Hampden, Hampshire & Middlesex']"
+290,sudbury,"['Third Middlesex', 'Middlesex & Worcester']"
+291,sunderland,"['Hampshire, Franklin & Worcester']"
+292,sutton,['Worcester & Norfolk']
+293,swampscott,['Third Essex']
+294,swansea,['First Bristol & Plymouth']
+295,taunton,['First Plymouth & Bristol']
+296,templeton,"['Worcester, Hampden, Hampshire & Middlesex']"
+297,tewksbury,['Second Essex & Middlesex']
+298,third essex,[nan]
+299,tisbury,['Cape & Isl&s']
+300,tolland,['Second Hampden & Hampshire']
+301,topsfield,['Second Essex']
+302,townsend,['Worcester & Middlesex']
+303,truro,['Cape & Isl&s']
+304,tyngsborough,['First Middlesex']
+305,tyringham,"['Berkshire, Hampshire, Franklin & Hampden']"
+306,upton,['Second Worcester']
+307,uxbridge,['Worcester & Norfolk']
+308,wakefield,['Fifth Middlesex']
+309,wales,"['Worcester, Hampden, Hampshire & Middlesex']"
+310,walpole,['Bristol & Norfolk']
+311,waltham,['Third Middlesex']
+312,ware,"['Worcester, Hampden, Hampshire & Middlesex']"
+313,wareham,['First Plymouth & Bristol']
+314,warren,"['Worcester, Hampden, Hampshire & Middlesex']"
+315,warwick,"['Hampshire, Franklin & Worcester']"
+316,washington,"['Berkshire, Hampshire, Franklin & Hampden']"
+317,watertown,['Second Suffolk & Middlesex']
+318,wayland,"['Norfolk, Bristol & Middlesex']"
+319,webster,['Worcester & Norfolk']
+320,wellesley,"['First Middlesex & Norfolk', 'Norfolk, Bristol & Middlesex']"
+321,wellfleet,['Cape & Isl&s']
+322,wendell,"['Hampshire, Franklin & Worcester']"
+323,wenham,['First Essex & Middlesex']
+324,west boylston,['First Worcester']
+325,west bridgewater,"['Norfolk, Bristol & Plymouth']"
+326,west brookfield,"['Worcester, Hampden, Hampshire & Middlesex']"
+327,west newbury,['First Essex & Middlesex']
+328,west springfield,['Hampden']
+329,west stockbridge,"['Berkshire, Hampshire, Franklin & Hampden']"
+330,west tisbury,['Cape & Isl&s']
+331,westborough,['Middlesex & Worcester']
+332,westfield,['Second Hampden & Hampshire']
+333,westford,['First Middlesex']
+334,westhampton,"['Berkshire, Hampshire, Franklin & Hampden']"
+335,westminster,['Worcester & Middlesex']
+336,weston,['Third Middlesex']
+337,westport,['First Bristol & Plymouth']
+338,westwood,['Norfolk & Suffolk']
+339,weymouth,['Plymouth & Norfolk']
+340,whately,"['Hampshire, Franklin & Worcester']"
+341,whitman,['Second Plymouth & Bristol']
+342,wilbraham,['First Hampden & Hampshire']
+343,williamsburg,"['Berkshire, Hampshire, Franklin & Hampden']"
+344,williamstown,"['Berkshire, Hampshire, Franklin & Hampden']"
+345,wilmington,['First Essex & Middlesex']
+346,winchendon,"['Worcester, Hampden, Hampshire & Middlesex']"
+347,winchester,"['Second Middlesex', 'Fifth Middlesex']"
+348,windsor,"['Berkshire, Hampshire, Franklin & Hampden']"
+349,winthrop,['First Suffolk & Middlesex']
+350,woburn,['Fourth Middlesex']
+351,worcester,"['First Worcester', 'Second Worcester']"
+352,worthington,"['Berkshire, Hampshire, Franklin & Hampden']"
+353,wrentham,"['Norfolk, Bristol & Middlesex']"
+354,yarmouth,['Cape & Isl&s']

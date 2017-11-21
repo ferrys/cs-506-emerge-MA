@@ -1,0 +1,234 @@
+city_town,Amount,senate_district
+abington,4500.0,['Norfolk & Plymouth']
+acton,7573.47,['Middlesex & Worcester']
+acushnet,5000.0,['Second Bristol & Plymouth']
+amesbury,11300.0,['First Essex']
+amherst,37860.21000000001,"['Hampshire, Franklin & Worcester']"
+andover,354818.1,['Second Essex & Middlesex']
+arlington,23650.0,['Fourth Middlesex']
+ashland,3100.0,['Second Middlesex & Norfolk']
+athol,30800.0,"['Worcester, Hampden, Hampshire & Middlesex']"
+attleboro,63385.01,"['Bristol & Norfolk', 'Norfolk, Bristol & Middlesex']"
+auburn,5784.95,['Second Worcester']
+avon,16000.0,"['Norfolk, Bristol & Plymouth']"
+barnstable,21503.11,['Cape & Isl&s']
+barre,14800.0,"['Worcester, Hampden, Hampshire & Middlesex']"
+bedford,13500.0,['Third Middlesex']
+bellingham,3500.0,['Worcester & Norfolk']
+belmont,74059.09,['Second Suffolk & Middlesex']
+berkley,5000.0,['First Plymouth & Bristol']
+beverly,20047.0,['Second Essex']
+billerica,13362.0,['Fourth Middlesex']
+blackstone,28300.0,['Worcester & Norfolk']
+boston,18261135.39,"['Middlesex & Suffolk', 'Norfolk & Suffolk', 'First Suffolk', 'Second Suffolk', 'First Suffolk & Middlesex', 'Second Suffolk & Middlesex']"
+boxborough,1000.0,['Middlesex & Worcester']
+boxford,109500.0,['First Essex & Middlesex']
+boylston,27000.0,['First Worcester']
+braintree,74750.0,"['Norfolk, Bristol & Plymouth', 'Norfolk & Plymouth']"
+brewster,5182.88,['Cape & Isl&s']
+bridgewater,5724.21,['First Plymouth & Bristol']
+brockton,28534.12,['Second Plymouth & Bristol']
+brookline,1810400.31,['First Middlesex & Norfolk']
+burlington,1090299.92,['Fourth Middlesex']
+cambridge,625951.1699999999,"['Second Middlesex', 'Middlesex & Suffolk', 'First Suffolk & Middlesex']"
+canton,768691.4600000001,"['Norfolk, Bristol & Plymouth']"
+carlisle,10500.0,['Third Middlesex']
+carver,5000.0,['First Plymouth & Bristol']
+charlton,5727.42,"['Worcester, Hampden, Hampshire & Middlesex']"
+chatham,2000.0,['Cape & Isl&s']
+chelmsford,4365.55,['Third Middlesex']
+chelsea,27505.19,['Middlesex & Suffolk']
+chicopee,2000.0,"['Hampden', 'First Hampden & Hampshire', 'Second Hampden & Hampshire']"
+chilmark,6000.0,['Cape & Isl&s']
+clinton,10000.0,"['First Worcester', 'Worcester & Middlesex']"
+cohasset,12160.0,['Plymouth & Norfolk']
+concord,84000.0,['Third Middlesex']
+danvers,24700.0,['Second Essex']
+dartmouth,33232.21000000001,['Second Bristol & Plymouth']
+dedham,41330.5,['Norfolk & Suffolk']
+deerfield,59071.69,"['Hampshire, Franklin & Worcester']"
+dennis,36123.97,['Cape & Isl&s']
+dighton,58300.0,['First Plymouth & Bristol']
+dover,49500.0,['Norfolk & Suffolk']
+dracut,11926.0,['Second Essex & Middlesex']
+dudley,35180.81,['Worcester & Norfolk']
+duxbury,4595.0,['Plymouth & Norfolk']
+east bridgewater,10550.73,"['Norfolk, Bristol & Plymouth', 'Second Plymouth & Bristol']"
+east longmeadow,59500.0,['First Hampden & Hampshire']
+eastham,1000.0,['Cape & Isl&s']
+easthampton,4805.17,['Second Hampden & Hampshire']
+essex,9000.0,['First Essex & Middlesex']
+everett,12350.0,['Middlesex & Suffolk']
+fairhaven,2867.0299999999997,['Second Bristol & Plymouth']
+fall river,75629.19,['First Bristol & Plymouth']
+falmouth,8450.0,['Plymouth & Barnstable']
+fitchburg,15250.0,['Worcester & Middlesex']
+foxborough,2550.0,['Bristol & Norfolk']
+framingham,331446.52,['Second Middlesex & Norfolk']
+franklin,20058.92,"['Second Middlesex & Norfolk', 'Norfolk, Bristol & Middlesex']"
+gardner,9674.89,['Worcester & Middlesex']
+georgetown,18375.0,['First Essex & Middlesex']
+gloucester,35215.0,['First Essex & Middlesex']
+grafton,2000.0,['Second Worcester']
+great barrington,1000.0,"['Berkshire, Hampshire, Franklin & Hampden']"
+greenfield,8501.54,"['Hampshire, Franklin & Worcester']"
+groveland,6350.4400000000005,['First Essex & Middlesex']
+halifax,7500.0,['Second Plymouth & Bristol']
+hampden,2000.0,['First Hampden & Hampshire']
+hanover,2500.0,['Second Plymouth & Bristol']
+harvard,22000.0,['Middlesex & Worcester']
+harwich,16635.0,['Cape & Isl&s']
+haverhill,46900.0,['First Essex']
+hingham,54000.0,['Plymouth & Norfolk']
+holbrook,4375.0,['Norfolk & Plymouth']
+holden,3975.0,['First Worcester']
+holliston,61581.83,['Second Middlesex & Norfolk']
+holyoke,4800.0,['Second Hampden & Hampshire']
+hopkinton,782772.22,['Second Middlesex & Norfolk']
+hubbardston,14673.29,"['Worcester, Hampden, Hampshire & Middlesex']"
+hudson,3890.0,['Middlesex & Worcester']
+hull,1000.0,['Plymouth & Norfolk']
+ipswich,5000.0,['First Essex & Middlesex']
+lakeville,505.0,['First Bristol & Plymouth']
+lawrence,17707.0,['Second Essex & Middlesex']
+leicester,11350.0,['Second Worcester']
+lenox,3546.0,"['Berkshire, Hampshire, Franklin & Hampden']"
+leominster,38008.66,['Worcester & Middlesex']
+lexington,76763.41,"['Third Middlesex', 'Fourth Middlesex']"
+lincoln,21355.0,['Third Middlesex']
+littleton,15750.0,['Middlesex & Worcester']
+longmeadow,122978.41,['First Hampden & Hampshire']
+lowell,86046.35,['First Middlesex']
+ludlow,18944.28,['First Hampden & Hampshire']
+lunenburg,7750.0,['Worcester & Middlesex']
+lynn,63451.77,['Third Essex']
+lynnfield,35500.0,['Third Essex']
+malden,208184.06,['Fifth Middlesex']
+mansfield,1000.0,['Bristol & Norfolk']
+marblehead,89652.0,['Third Essex']
+marion,3500.0,['First Plymouth & Bristol']
+marlborough,320567.74,['Middlesex & Worcester']
+marshfield,35493.67,['Plymouth & Norfolk']
+mashpee,9723.73,['Cape & Isl&s']
+mattapoisett,3000.0,['Second Bristol & Plymouth']
+maynard,7634.09,['Middlesex & Worcester']
+medfield,2000.0,['Bristol & Norfolk']
+medford,61938.69,['Second Middlesex']
+medway,99310.23000000001,['Second Middlesex & Norfolk']
+melrose,92150.0,['Fifth Middlesex']
+mendon,5000.0,['Worcester & Norfolk']
+methuen,46621.65,['First Essex']
+middleborough,1132.35,['First Plymouth & Bristol']
+middleton,5000.0,['First Essex & Middlesex']
+milford,19040.0,['Worcester & Norfolk']
+millbury,1519.9099999999999,['Second Worcester']
+milton,202663.07,"['Norfolk, Bristol & Plymouth']"
+monson,610.0,"['Worcester, Hampden, Hampshire & Middlesex']"
+montague,1474.0,"['Hampshire, Franklin & Worcester']"
+natick,10152.5,"['Second Middlesex & Norfolk', 'Norfolk, Bristol & Middlesex']"
+needham,58958.16,"['Norfolk, Bristol & Middlesex', 'Norfolk & Suffolk']"
+new bedford,140232.95,['Second Bristol & Plymouth']
+new braintree,785.3,"['Worcester, Hampden, Hampshire & Middlesex']"
+newbury,10001.88,['First Essex & Middlesex']
+newburyport,30327.1,['First Essex']
+newton,2360390.41,['First Middlesex & Norfolk']
+norfolk,10505.49,"['Norfolk, Bristol & Middlesex']"
+north andover,24708.07,"['First Essex', 'First Essex & Middlesex']"
+north reading,38627.9,['First Essex & Middlesex']
+northampton,5142.93,"['Hampshire, Franklin & Worcester']"
+northborough,6000.0,"['Middlesex & Worcester', 'First Worcester']"
+northbridge,19000.0,"['Second Worcester', 'Worcester & Norfolk']"
+norton,10000.0,['Bristol & Norfolk']
+norwell,60339.55,['Plymouth & Norfolk']
+norwood,648714.8,['Norfolk & Suffolk']
+orange,5216.2300000000005,"['Hampshire, Franklin & Worcester']"
+orleans,600.0,['Cape & Isl&s']
+oxford,557.0,['Worcester & Norfolk']
+palmer,9750.0,"['Worcester, Hampden, Hampshire & Middlesex']"
+peabody,49510.0,['Second Essex']
+pembroke,19335.0,['Plymouth & Barnstable']
+pepperell,9500.0,['First Middlesex']
+pittsfield,9256.0,"['Berkshire, Hampshire, Franklin & Hampden']"
+plainville,9250.0,"['Norfolk, Bristol & Middlesex']"
+plymouth,71464.92,['Plymouth & Barnstable']
+princeton,9000.0,['First Worcester']
+provincetown,2600.0,['Cape & Isl&s']
+quincy,752789.06,['Norfolk & Plymouth']
+randolph,4214.37,"['Norfolk, Bristol & Plymouth']"
+raynham,16780.0,['First Plymouth & Bristol']
+reading,19050.0,['Fifth Middlesex']
+rehoboth,2500.0,['Bristol & Norfolk']
+revere,30000.0,['First Suffolk & Middlesex']
+rockland,4341.91,['Norfolk & Plymouth']
+rockport,5867.36,['First Essex & Middlesex']
+salem,70895.92,['Second Essex']
+salisbury,14500.0,['First Essex']
+sandwich,41311.0,['Plymouth & Barnstable']
+saugus,31442.0,['Third Essex']
+scituate,11748.0,['Plymouth & Norfolk']
+seekonk,7000.0,['Bristol & Norfolk']
+sharon,21500.0,"['Bristol & Norfolk', 'Norfolk, Bristol & Plymouth']"
+sherborn,49500.0,"['Norfolk, Bristol & Middlesex']"
+shirley,8922.57,['Middlesex & Worcester']
+shrewsbury,289834.35,['Second Worcester']
+somerset,66800.0,['First Bristol & Plymouth']
+somerville,101226.29,['Second Middlesex']
+south hadley,4500.0,"['Hampshire, Franklin & Worcester']"
+southborough,57075.0,['Middlesex & Worcester']
+southbridge,1000.0,['Worcester & Norfolk']
+spencer,3000.0,"['Worcester, Hampden, Hampshire & Middlesex']"
+springfield,347671.70999999996,"['Hampden', 'First Hampden & Hampshire']"
+sterling,2450.0,['Worcester & Middlesex']
+stoneham,23700.0,['Fifth Middlesex']
+stoughton,26012.44,"['Norfolk, Bristol & Plymouth']"
+stow,7245.0,['Middlesex & Worcester']
+sturbridge,12500.0,"['Worcester, Hampden, Hampshire & Middlesex']"
+sudbury,25000.0,"['Third Middlesex', 'Middlesex & Worcester']"
+sunderland,3750.0,"['Hampshire, Franklin & Worcester']"
+sutton,104891.53,['Worcester & Norfolk']
+swampscott,60500.0,['Third Essex']
+swansea,600.0,['First Bristol & Plymouth']
+taunton,29750.51,['First Plymouth & Bristol']
+tewksbury,163800.0,['Second Essex & Middlesex']
+topsfield,20750.0,['Second Essex']
+townsend,7956.219999999999,['Worcester & Middlesex']
+truro,620.0,['Cape & Isl&s']
+upton,23000.0,['Second Worcester']
+uxbridge,12748.349999999999,['Worcester & Norfolk']
+wakefield,26600.0,['Fifth Middlesex']
+wales,10560.82,"['Worcester, Hampden, Hampshire & Middlesex']"
+walpole,53501.81,['Bristol & Norfolk']
+waltham,165847.87,['Third Middlesex']
+wareham,6680.0,['First Plymouth & Bristol']
+washington,1397500.0,"['Berkshire, Hampshire, Franklin & Hampden']"
+watertown,336746.31,['Second Suffolk & Middlesex']
+wayland,23998.65,"['Norfolk, Bristol & Middlesex']"
+webster,105350.0,['Worcester & Norfolk']
+wellesley,599802.51,"['First Middlesex & Norfolk', 'Norfolk, Bristol & Middlesex']"
+wellfleet,700.0,['Cape & Isl&s']
+wenham,1000.0,['First Essex & Middlesex']
+west boylston,4329.0,['First Worcester']
+west bridgewater,8200.0,"['Norfolk, Bristol & Plymouth']"
+west brookfield,5000.0,"['Worcester, Hampden, Hampshire & Middlesex']"
+west newbury,1000.0,['First Essex & Middlesex']
+west springfield,13630.0,['Hampden']
+west tisbury,1000.0,['Cape & Isl&s']
+westborough,205500.0,['Middlesex & Worcester']
+westfield,44000.0,['Second Hampden & Hampshire']
+westford,18200.0,['First Middlesex']
+westminster,1000.0,['Worcester & Middlesex']
+weston,286316.7,['Third Middlesex']
+westport,11700.0,['First Bristol & Plymouth']
+westwood,48937.4,['Norfolk & Suffolk']
+weymouth,50035.43,['Plymouth & Norfolk']
+whitman,12000.0,['Second Plymouth & Bristol']
+wilbraham,5809.16,['First Hampden & Hampshire']
+williamsburg,1000.0,"['Berkshire, Hampshire, Franklin & Hampden']"
+wilmington,125719.25,['First Essex & Middlesex']
+winchendon,5000.0,"['Worcester, Hampden, Hampshire & Middlesex']"
+winchester,1097788.5,"['Second Middlesex', 'Fifth Middlesex']"
+winthrop,7813.03,['First Suffolk & Middlesex']
+woburn,54387.549999999996,['Fourth Middlesex']
+worcester,222452.41,"['First Worcester', 'Second Worcester']"
+worthington,10800.0,"['Berkshire, Hampshire, Franklin & Hampden']"
+wrentham,11000.0,"['Norfolk, Bristol & Middlesex']"

@@ -1,0 +1,601 @@
+year,district,name,party,vote_count,vote_percent
+2017,1st Berkshire,"John P. Barrett, III",Democratic,"4,976",74.3
+2017,3rd Essex,Andres X. Vargas,Democratic,"3,891",53.2
+2016,1st Barnstable,Timothy R. Whelan,Republican,"19,640",99.1
+2016,2nd Barnstable,"William L. Crocker, Jr.",Republican,"11,879",54.7
+2016,3rd Barnstable,David T. Vieira,Republican,"12,739",52.9
+2016,4th Barnstable,Sarah K. Peake,Democratic,"22,948",99.4
+2016,5th Barnstable,Randy Hunt,Republican,"18,096",99.2
+2016,"Barnstable, Dukes and Nantucket",Dylan A. Fernandes,Democratic,"13,030",51.7
+2016,1st Berkshire,Gailanne M. Cariddi,Democratic,"15,675",99.4
+2016,2nd Berkshire,Paul W. Mark,Democratic,"17,631",99.6
+2016,3rd Berkshire,Tricia Farley-Bouvier,Democratic,"11,827",66.3
+2016,4th Berkshire,"William ""Smitty"" Pignatelli",Democratic,"19,356",99.7
+2016,1st Bristol,Fred Jay Barrows,Republican,"12,561",60.0
+2016,2nd Bristol,Paul R. Heroux,Democratic,"15,301",99.6
+2016,3rd Bristol,Shaunna L. O'Connell,Republican,"10,520",58.6
+2016,4th Bristol,Steven S. Howitt,Republican,"13,253",62.2
+2016,5th Bristol,Patricia A. Haddad,Democratic,"16,907",99.1
+2016,6th Bristol,Carole A. Fiola,Democratic,"12,457",99.3
+2016,7th Bristol,Alan Silvia,Democratic,"9,594",99.6
+2016,8th Bristol,"Paul Schmid, III",Democratic,"14,788",99.4
+2016,9th Bristol,Christopher M. Markey,Democratic,"15,010",99.4
+2016,10th Bristol,William M. Straus,Democratic,"16,429",99.0
+2016,11th Bristol,Robert M. Koczera,Democratic,"11,907",99.1
+2016,12th Bristol,Keiko M. Orrall,Republican,"15,855",98.8
+2016,13th Bristol,Antonio d. F. Cabral,Democratic,"12,021",99.1
+2016,14th Bristol,Elizabeth A. Poirier,Republican,"13,865",70.4
+2016,1st Essex,James M. Kelcourse,Republican,"13,272",54.0
+2016,2nd Essex,Leonard Mirra,Republican,"19,363",99.0
+2016,3rd Essex,Brian S. Dempsey,Democratic,"15,136",98.7
+2016,4th Essex,Bradford R. Hill,Republican,"21,813",99.6
+2016,5th Essex,Ann-Margaret Ferrante,Democratic,"18,239",98.5
+2016,6th Essex,Jerald A. Parisella,Democratic,"15,012",74.8
+2016,7th Essex,Paul F. Tucker,Democratic,"18,208",99.6
+2016,8th Essex,Lori A. Ehrlich,Democratic,"18,365",99.3
+2016,9th Essex,Donald H. Wong,Republican,"12,816",54.5
+2016,10th Essex,Daniel H. Cahill,Democratic,"11,556",98.4
+2016,10th Essex,Daniel H. Cahill,Democratic,320,96.7
+2016,11th Essex,Brendan P. Crighton,Democratic,"11,223",98.2
+2016,12th Essex,Thomas P. Walsh,Democratic,"7,138",57.4
+2016,12th Essex,Thomas P. Walsh,Democratic,"16,480",98.6
+2016,13th Essex,Theodore C. Speliotis,Democratic,"18,163",98.1
+2016,14th Essex,Diana DiZoglio,Democratic,"15,927",99.2
+2016,15th Essex,Linda Dean Campbell,Democratic,"12,904",63.3
+2016,16th Essex,Juana B. Matias,Democratic,"11,205",98.1
+2016,17th Essex,Frank A. Moran,Democratic,"12,033",98.7
+2016,18th Essex,"James J. Lyons, Jr.",Republican,"14,218",59.6
+2016,1st Franklin,Stephen Kulik,Democratic,"20,798",99.8
+2016,2nd Franklin,Susannah Whipps M. Lee,Republican,"15,490",98.7
+2016,1st Hampden,Todd M. Smola,Republican,"17,633",99.3
+2016,2nd Hampden,Brian M. Ashe,Democratic,"18,058",98.7
+2016,3rd Hampden,Nicholas A. Boldyga,Republican,"12,136",59.9
+2016,4th Hampden,John C. Velis,Democratic,"15,399",99.4
+2016,5th Hampden,Aaron Vega,Democratic,"13,687",99.7
+2016,6th Hampden,Michael J. Finn,Democratic,"12,819",98.9
+2016,7th Hampden,Thomas M. Petrolati,Democratic,"16,180",98.6
+2016,8th Hampden,Joseph F. Wagner,Democratic,"14,479",98.1
+2016,9th Hampden,Jose F. Tosado,Democratic,"12,020",80.3
+2016,10th Hampden,Carlos Gonzalez,Democratic,"10,286",98.4
+2016,11th Hampden,Bud L. Williams,Democratic,"11,634",97.5
+2016,12th Hampden,"Angelo J. Puppolo, Jr.",Democratic,"16,368",99.0
+2016,1st Hampshire,Peter V. Kocot,Democratic,"20,145",99.6
+2016,2nd Hampshire,John W. Scibak,Democratic,"19,023",99.3
+2016,3rd Hampshire,Solomon Israel Goldstein-Rose,Democratic,"14,601",98.7
+2016,1st Middlesex,Sheila C. Harrington,Republican,"14,984",65.1
+2016,2nd Middlesex,James Arciero,Democratic,"20,337",99.3
+2016,3rd Middlesex,Kate Hogan,Democratic,"19,161",98.8
+2016,4th Middlesex,Danielle W. Gregoire,Democratic,"11,531",59.6
+2016,5th Middlesex,David Paul Linsky,Democratic,"19,566",99.1
+2016,6th Middlesex,Chris Walsh,Democratic,"16,009",98.5
+2016,7th Middlesex,Jack Patrick Lewis,Democratic,"9,286",61.8
+2016,8th Middlesex,Carolyn C. Dykema,Democratic,"19,524",98.5
+2016,9th Middlesex,Thomas M. Stanley,Democratic,"12,654",63.3
+2016,10th Middlesex,"John J. Lawn, Jr.",Democratic,"12,665",98.5
+2016,11th Middlesex,Kay S. Khan,Democratic,"17,153",98.7
+2016,12th Middlesex,Ruth B. Balser,Democratic,"16,582",98.6
+2016,13th Middlesex,Carmine Lawrence Gentile,Democratic,"17,561",98.7
+2016,14th Middlesex,Cory Atkins,Democratic,"14,831",60.2
+2016,15th Middlesex,Jay R. Kaufman,Democratic,"17,736",100.0
+2016,16th Middlesex,"Thomas A. Golden, Jr.",Democratic,"13,962",98.4
+2016,17th Middlesex,David M. Nangle,Democratic,"12,305",97.5
+2016,18th Middlesex,Rady Mom,Democratic,"8,107",71.7
+2016,19th Middlesex,James R. Miceli,Democratic,"19,349",98.7
+2016,20th Middlesex,"Bradley H. Jones, Jr",Republican,"19,756",99.5
+2016,21st Middlesex,Kenneth I. Gordon,Democratic,"13,476",58.5
+2016,22nd Middlesex,Marc T. Lombardo,Republican,"12,583",58.9
+2016,23rd Middlesex,Sean Garballey,Democratic,"20,991",99.2
+2016,24th Middlesex,David M. Rogers,Democratic,"18,570",99.1
+2016,25th Middlesex,Marjorie C. Decker,Democratic,"15,968",99.2
+2016,26th Middlesex,Mike Connolly,Democratic,"15,872",98.4
+2016,27th Middlesex,Denise Provost,Democratic,"18,409",87.0
+2016,28th Middlesex,"Joseph W. Mcgonagle, Jr",Democratic,"10,811",98.5
+2016,29th Middlesex,Jonathan Hecht,Democratic,"18,821",98.6
+2016,30th Middlesex,James J. Dwyer,Democratic,"15,943",99.6
+2016,31st Middlesex,Michael Seamus Day,Democratic,"14,528",58.8
+2016,32nd Middlesex,Paul A. Brodeur,Democratic,"18,386",98.7
+2016,33rd Middlesex,Steven Ultrino,Democratic,"11,435",98.5
+2016,34th Middlesex,Christine P. Barber,Democratic,"16,334",98.6
+2016,35th Middlesex,"Paul J. Donato, Sr.",Democratic,"15,306",98.5
+2016,36th Middlesex,Colleen M. Garry,Democratic,"18,003",99.8
+2016,37th Middlesex,Jennifer E. Benson,Democratic,"17,814",99.0
+2016,1st Norfolk,Bruce J. Ayers,Democratic,"15,497",99.8
+2016,2nd Norfolk,Tackey Chan,Democratic,"15,005",100.0
+2016,3rd Norfolk,Ronald Mariano,Democratic,"15,810",99.2
+2016,4th Norfolk,James Michael Murphy,Democratic,"17,771",98.7
+2016,5th Norfolk,Mark J. Cusack,Democratic,"16,652",98.5
+2016,6th Norfolk,William C. Galvin,Democratic,"17,215",99.6
+2016,7th Norfolk,"William J. Driscoll, Jr",Democratic,"16,318",99.2
+2016,8th Norfolk,Louis L. Kafka,Democratic,"18,169",99.2
+2016,9th Norfolk,Shawn C. Dooley,Republican,"14,427",60.9
+2016,10th Norfolk,Jeffrey N. Roy,Democratic,"18,581",98.2
+2016,11th Norfolk,Paul McMurtry,Democratic,"18,918",99.2
+2016,12th Norfolk,John H. Rogers,Democratic,"14,534",65.9
+2016,13th Norfolk,Denise C. Garlick,Democratic,"20,144",98.7
+2016,14th Norfolk,Alice Hanlon Peisch,Democratic,"17,759",99.4
+2016,15th Norfolk,Frank Israel Smizik,Democratic,"16,079",99.5
+2016,1st Plymouth,Mathew J. Muratore,Republican,"11,873",50.8
+2016,2nd Plymouth,Susan Williams Gifford,Republican,"11,894",57.7
+2016,3rd Plymouth,Joan Meschino,Democratic,"13,257",54.0
+2016,4th Plymouth,James M. Cantwell,Democratic,"17,388",69.6
+2016,5th Plymouth,David F. Decoste,Republican,"12,293",51.0
+2016,6th Plymouth,Josh S. Cutler,Democratic,"15,290",64.0
+2016,7th Plymouth,Geoff Diehl,Republican,"17,088",99.2
+2016,8th Plymouth,Angelo L. D'Emilia,Republican,"14,963",98.4
+2016,9th Plymouth,Gerard J. Cassidy,Democratic,"4,536",99.0
+2016,9th Plymouth,Gerard J. Cassidy,Democratic,"10,346",85.6
+2016,10th Plymouth,Michelle M. Dubois,Democratic,"13,945",99.2
+2016,11th Plymouth,Claire D. Cronin,Democratic,"15,361",99.8
+2016,12th Plymouth,"Thomas J. Calter, III",Democratic,"13,908",59.9
+2016,1st Suffolk,Adrian C. Madaro,Democratic,"9,946",98.0
+2016,2nd Suffolk,Daniel Joseph Ryan,Democratic,"12,755",99.1
+2016,3rd Suffolk,Aaron M. Michlewitz,Democratic,"15,542",98.7
+2016,4th Suffolk,Nick Collins,Democratic,"18,781",98.6
+2016,5th Suffolk,Evandro C. Carvalho,Democratic,"10,855",83.9
+2016,6th Suffolk,Russell E. Holmes,Democratic,"13,044",98.8
+2016,7th Suffolk,Chynah Tyler,Democratic,"9,150",98.6
+2016,8th Suffolk,Jay D. Livingstone,Democratic,"16,201",98.7
+2016,9th Suffolk,Byron Rushing,Democratic,"12,617",98.5
+2016,10th Suffolk,Edward F. Coppinger,Democratic,"17,070",98.8
+2016,11th Suffolk,Elizabeth A. Malia,Democratic,"15,628",88.9
+2016,12th Suffolk,Dan Cullinane,Democratic,"15,286",98.6
+2016,13th Suffolk,Daniel J. Hunt,Democratic,"14,507",98.4
+2016,14th Suffolk,Angelo M. Scaccia,Democratic,"15,784",98.4
+2016,15th Suffolk,Jeffrey Sanchez,Democratic,"15,675",98.9
+2016,16th Suffolk,Roselee Vincent,Democratic,"11,220",98.6
+2016,17th Suffolk,Kevin G. Honan,Democratic,"13,367",98.6
+2016,18th Suffolk,Michael J. Moran,Democratic,"10,714",98.6
+2016,19th Suffolk,Robert A. DeLeo,Democratic,"13,000",98.2
+2016,1st Worcester,Kimberly N. Ferguson,Republican,"20,065",99.3
+2016,2nd Worcester,Jonathan D. Zlotnik,Democratic,"14,470",99.0
+2016,3rd Worcester,Stephan Hay,Democratic,"4,613",50.5
+2016,3rd Worcester,Stephan Hay,Democratic,"13,498",99.5
+2016,4th Worcester,Natalie Higgins,Democratic,"10,382",55.1
+2016,5th Worcester,"Donald R. Berthiaume, Jr",Republican,"17,133",99.5
+2016,6th Worcester,Peter J. Durant,Republican,"15,106",98.5
+2016,7th Worcester,Paul K. Frost,Republican,"13,691",66.3
+2016,8th Worcester,Kevin J. Kuros,Republican,"17,436",98.8
+2016,9th Worcester,"David K. Muradian, Jr",Republican,"18,513",99.6
+2016,10th Worcester,Brian W. Murray,Democratic,"11,869",54.9
+2016,11th Worcester,Hannah E. Kane,Republican,"17,835",98.1
+2016,12th Worcester,"Harold P. Naughton, Jr.",Democratic,"15,976",79.8
+2016,13th Worcester,"John J. Mahoney, Jr.",Democratic,"12,943",98.0
+2016,14th Worcester,James J. O'Day,Democratic,"13,360",98.1
+2016,15th Worcester,Mary S. Keefe,Democratic,"8,039",78.2
+2016,16th Worcester,Daniel M. Donahue,Democratic,"7,783",67.0
+2016,17th Worcester,Kate D. Campanale,Republican,"8,011",54.4
+2016,18th Worcester,Joseph D. Mckenna,Republican,"16,504",99.0
+2015,1st Suffolk,Adrian C. Madaro,Democratic,"1,749",89.8
+2015,11th Worcester,Hannah E. Kane,Republican,"4,028",51.8
+2014,1st Barnstable,Timothy R. Whelan,Republican,"10,170",52.0
+2014,2nd Barnstable,Brian R. Mannal,Democratic,"7,801",50.6
+2014,3rd Barnstable,David T. Vieira,Republican,"12,681",99.1
+2014,4th Barnstable,Sarah K. Peake,Democratic,"16,292",99.1
+2014,5th Barnstable,Randy Hunt,Republican,"10,309",62.7
+2014,"Barnstable, Dukes and Nantucket",Timothy R. Madden,Democratic,"13,452",99.3
+2014,1st Berkshire,Gailanne M. Cariddi,Democratic,"9,251",99.7
+2014,2nd Berkshire,Paul W. Mark,Democratic,"10,816",99.7
+2014,3rd Berkshire,Tricia Farley-Bouvier,Democratic,"8,079",99.4
+2014,4th Berkshire,"William ""Smitty"" Pignatelli",Democratic,"12,408",99.0
+2014,1st Bristol,Fred Jay Barrows,Republican,"10,843",99.8
+2014,2nd Bristol,Paul R. Heroux,Democratic,"6,621",60.9
+2014,3rd Bristol,Shaunna L. O'Connell,Republican,"6,824",61.3
+2014,4th Bristol,Steven S. Howitt,Republican,"9,424",98.9
+2014,5th Bristol,Patricia A. Haddad,Democratic,"9,447",98.9
+2014,6th Bristol,Carole A. Fiola,Democratic,"5,369",59.4
+2014,7th Bristol,Alan Silvia,Democratic,"5,151",99.4
+2014,8th Bristol,"Paul Schmid, A. Lll",Democratic,"8,334",99.3
+2014,9th Bristol,Christopher M. Markey,Democratic,"6,977",66.7
+2014,10th Bristol,William M. Straus,Democratic,"8,668",65.5
+2014,11th Bristol,Robert M. Koczera,Democratic,"6,233",98.8
+2014,12th Bristol,Keiko M. Orrall,Republican,"10,100",99.0
+2014,13th Bristol,Antonio d. F. Cabral,Democratic,"6,270",98.6
+2014,14th Bristol,Elizabeth A. Poirier,Republican,"10,494",99.4
+2014,1st Essex,James M. Kelcourse,Republican,"6,978",42.0
+2014,2nd Essex,Leonard Mirra,Republican,"14,083",99.2
+2014,3rd Essex,Brian S. Dempsey,Democratic,"8,901",97.8
+2014,4th Essex,Bradford R. Hill,Republican,"15,936",99.5
+2014,5th Essex,Ann-Margaret Ferrante,Democratic,"9,439",58.9
+2014,6th Essex,Jerald A. Parisella,Democratic,"9,912",74.1
+2014,7th Essex,Paul F. Tucker,Democratic,"10,187",83.9
+2014,8th Essex,Lori A. Ehrlich,Democratic,"12,906",99.2
+2014,9th Essex,Donald H. Wong,Republican,"9,721",60.5
+2014,10th Essex,Robert F. Fennell,Democratic,"7,090",98.1
+2014,11th Essex,Brendan P. Crighton,Democratic,"7,368",98.1
+2014,12th Essex,Leah Cole,Republican,"7,265",51.5
+2014,13th Essex,Theodore C. Speliotis,Democratic,"8,459",52.4
+2014,14th Essex,Diana DiZoglio,Democratic,"6,732",54.8
+2014,15th Essex,Linda Dean Campbell,Democratic,"7,716",57.3
+2014,16th Essex,Marcos A. Devers,Democratic,"3,667",46.9
+2014,17th Essex,Frank A. Moran,Democratic,"6,819",97.5
+2014,18th Essex,"James J. Lyons, Jr.",Republican,"12,584",99.1
+2014,1st Franklin,Stephen Kulik,Democratic,"11,987",69.9
+2014,2nd Franklin,Susannah Whipps M. Lee,Republican,"7,350",54.5
+2014,1st Hampden,Todd M. Smola,Republican,"11,528",99.3
+2014,2nd Hampden,Brian M. Ashe,Democratic,"12,104",98.3
+2014,3rd Hampden,Nicholas A. Boldyga,Republican,"9,401",67.8
+2014,4th Hampden,John C. Velis,Democratic,"2,697",53.4
+2014,4th Hampden,John C. Velis,Democratic,"7,327",58.9
+2014,5th Hampden,Aaron Vega,Democratic,"7,902",97.9
+2014,6th Hampden,Michael J. Finn,Democratic,"6,113",56.8
+2014,7th Hampden,Thomas M. Petrolati,Democratic,"9,462",97.9
+2014,8th Hampden,Joseph F. Wagner,Democratic,"9,284",97.9
+2014,9th Hampden,Jose F. Tosado,Democratic,"7,396",78.1
+2014,10th Hampden,Carlos Gonzalez,Democratic,"5,313",97.8
+2014,11th Hampden,Benjamin Swan,Democratic,"6,325",96.6
+2014,12th Hampden,"Angelo J. Puppolo, Jr.",Democratic,"9,299",64.7
+2014,1st Hampshire,Peter V. Kocot,Democratic,"13,937",99.5
+2014,2nd Hampshire,John W. Scibak,Democratic,"12,249",99.1
+2014,3rd Hampshire,Ellen S. Story,Democratic,"8,125",88.0
+2014,1st Middlesex,Sheila C. Harrington,Republican,"9,958",64.3
+2014,2nd Middlesex,James Arciero,Democratic,"9,263",52.8
+2014,3rd Middlesex,Kate Hogan,Democratic,"9,847",60.2
+2014,4th Middlesex,Danielle W. Gregoire,Democratic,"6,392",49.9
+2014,5th Middlesex,David Paul Linsky,Democratic,"10,699",62.5
+2014,6th Middlesex,Chris Walsh,Democratic,"9,763",83.4
+2014,7th Middlesex,Tom Sannicandro,Democratic,"7,188",98.8
+2014,8th Middlesex,Carolyn C. Dykema,Democratic,"9,621",56.7
+2014,9th Middlesex,Thomas M. Stanley,Democratic,"9,293",71.4
+2014,10th Middlesex,"John J. Lawn, Jr.",Democratic,"7,402",98.2
+2014,11th Middlesex,Kay S. Khan,Democratic,"11,652",98.6
+2014,12th Middlesex,Ruth B. Balser,Democratic,"11,552",98.5
+2014,13th Middlesex,Carmine Lawrence Gentile,Democratic,"10,977",98.5
+2014,14th Middlesex,Cory Atkins,Democratic,"12,080",75.1
+2014,15th Middlesex,Jay R. Kaufman,Democratic,"12,625",99.1
+2014,16th Middlesex,"Thomas A. Golden, Jr.",Democratic,"8,235",97.9
+2014,17th Middlesex,David M. Nangle,Democratic,"7,226",96.5
+2014,18th Middlesex,Rady Mom,Democratic,"3,867",61.5
+2014,19th Middlesex,James R. Miceli,Democratic,"10,781",70.1
+2014,20th Middlesex,"Bradley H. Jones, Jr",Republican,"14,592",99.6
+2014,21st Middlesex,Kenneth I. Gordon,Democratic,"8,129",52.2
+2014,22nd Middlesex,Marc T. Lombardo,Republican,"10,379",95.8
+2014,23rd Middlesex,Sean Garballey,Democratic,"14,018",77.6
+2014,24th Middlesex,David M. Rogers,Democratic,"12,748",99.1
+2014,25th Middlesex,Marjorie C. Decker,Democratic,"10,082",98.8
+2014,26th Middlesex,"Timothy J. Toomey, Jr.",Democratic,"8,789",87.0
+2014,27th Middlesex,Denise Provost,Democratic,"10,771",87.7
+2014,28th Middlesex,"Joseph W. Mcgonagle, Jr",Democratic,"7,329",98.3
+2014,29th Middlesex,Jonathan Hecht,Democratic,"12,614",98.9
+2014,30th Middlesex,James J. Dwyer,Democratic,"10,578",98.9
+2014,31st Middlesex,Michael Seamus Day,Democratic,"9,270",51.4
+2014,32nd Middlesex,Paul A. Brodeur,Democratic,"10,965",65.9
+2014,33rd Middlesex,Steven Ultrino,Democratic,"5,801",66.4
+2014,34th Middlesex,Christine P. Barber,Democratic,"7,043",64.1
+2014,35th Middlesex,"Paul J. Donato, Sr.",Democratic,"9,697",98.3
+2014,36th Middlesex,Colleen M. Garry,Democratic,"7,840",53.7
+2014,37th Middlesex,Jennifer E. Benson,Democratic,"11,659",99.1
+2014,1st Norfolk,Bruce J. Ayers,Democratic,"9,820",98.6
+2014,2nd Norfolk,Tackey Chan,Democratic,"9,474",97.9
+2014,3rd Norfolk,Ronald Mariano,Democratic,"8,702",65.9
+2014,4th Norfolk,James Michael Murphy,Democratic,"8,740",58.4
+2014,5th Norfolk,Mark J. Cusack,Democratic,"10,806",99.1
+2014,6th Norfolk,William C. Galvin,Democratic,"10,613",99.6
+2014,7th Norfolk,"Walter F. Timilty, Jr.",Democratic,"11,274",99.1
+2014,8th Norfolk,Louis L. Kafka,Democratic,"11,614",98.7
+2014,9th Norfolk,Shawn C. Dooley,Republican,"1,922",61.1
+2014,9th Norfolk,Shawn C. Dooley,Republican,"12,734",99.0
+2014,10th Norfolk,Jeffrey N. Roy,Democratic,"11,135",97.7
+2014,11th Norfolk,Paul McMurtry,Democratic,"11,922",99.1
+2014,12th Norfolk,John H. Rogers,Democratic,"8,894",58.1
+2014,13th Norfolk,Denise C. Garlick,Democratic,"13,091",98.4
+2014,14th Norfolk,Alice Hanlon Peisch,Democratic,"12,101",99.4
+2014,15th Norfolk,Frank Israel Smizik,Democratic,"9,332",80.6
+2014,1st Plymouth,Mathew J. Muratore,Republican,"9,227",59.9
+2014,2nd Plymouth,Susan Williams Gifford,Republican,"10,847",98.8
+2014,3rd Plymouth,Garrett J. Bradley,Democratic,"13,367",99.3
+2014,4th Plymouth,James M. Cantwell,Democratic,"10,560",58.6
+2014,5th Plymouth,David F. Decoste,Republican,"8,332",50.1
+2014,6th Plymouth,Josh S. Cutler,Democratic,"9,035",53.8
+2014,7th Plymouth,Geoff Diehl,Republican,"11,528",99.2
+2014,8th Plymouth,Angelo L. D'Emilia,Republican,"6,838",53.6
+2014,9th Plymouth,Michael D. Brady,Democratic,"6,190",99.7
+2014,10th Plymouth,Michelle M. Dubois,Democratic,"5,684",50.7
+2014,11th Plymouth,Claire D. Cronin,Democratic,"9,321",99.0
+2014,12th Plymouth,"Thomas J. Calter, III",Republican,"12,944",99.1
+2014,1st Suffolk,Carlo P. Basile,Democratic,"4,965",76.1
+2014,2nd Suffolk,Daniel Joseph Ryan,Democratic,"1,661",98.3
+2014,2nd Suffolk,Daniel Joseph Ryan,Democratic,"7,669",98.7
+2014,3rd Suffolk,Aaron M. Michlewitz,Democratic,"8,398",98.5
+2014,4th Suffolk,Nick Collins,Democratic,"9,850",98.4
+2014,5th Suffolk,Evandro C. Carvalho,Democratic,739,91.2
+2014,5th Suffolk,Evandro C. Carvalho,Democratic,"6,025",88.0
+2014,6th Suffolk,Russell E. Holmes,Democratic,"7,663",99.1
+2014,7th Suffolk,Gloria L. Fox,Democratic,"4,641",98.0
+2014,8th Suffolk,Jay D. Livingstone,Democratic,"8,769",98.6
+2014,9th Suffolk,Byron Rushing,Democratic,"6,583",98.7
+2014,10th Suffolk,Edward F. Coppinger,Democratic,"11,923",98.8
+2014,11th Suffolk,Elizabeth A. Malia,Democratic,"9,912",99.1
+2014,12th Suffolk,Dan Cullinane,Democratic,"10,272",99.0
+2014,13th Suffolk,Daniel J. Hunt,Democratic,"1,597",97.0
+2014,13th Suffolk,Daniel J. Hunt,Democratic,"9,259",98.5
+2014,14th Suffolk,Angelo M. Scaccia,Democratic,"9,920",98.5
+2014,15th Suffolk,Jeffrey Sanchez,Democratic,"9,582",99.0
+2014,16th Suffolk,Roselee Vincent,Democratic,"1,586",67.5
+2014,16th Suffolk,Roselee Vincent,Democratic,"7,431",98.4
+2014,17th Suffolk,Kevin G. Honan,Democratic,"5,609",98.3
+2014,18th Suffolk,Michael J. Moran,Democratic,"5,039",98.1
+2014,19th Suffolk,Robert A. DeLeo,Democratic,"7,330",71.6
+2014,1st Worcester,Kimberly N. Ferguson,Republican,"13,847",99.4
+2014,2nd Worcester,Jonathan D. Zlotnik,Democratic,"5,859",50.1
+2014,3rd Worcester,Stephen L. DiNatale,Democratic,"7,800",99.6
+2014,4th Worcester,Dennis A. Rosa,Democratic,"6,649",55.0
+2014,5th Worcester,"Donald R. Berthiaume, Jr",Republican,"8,344",56.3
+2014,6th Worcester,Peter J. Durant,Republican,"7,210",62.9
+2014,7th Worcester,Paul K. Frost,Republican,"10,087",73.6
+2014,8th Worcester,Kevin J. Kuros,Republican,"8,331",60.4
+2014,9th Worcester,"David K. Muradian, Jr",Republican,"8,980",62.4
+2014,10th Worcester,John V. Fernandes,Democratic,"8,677",58.9
+2014,11th Worcester,Matthew A. Beaton,Republican,"12,457",99.4
+2014,12th Worcester,"Harold P. Naughton, Jr.",Democratic,"8,497",55.4
+2014,13th Worcester,"John J. Mahoney, Jr.",Democratic,"7,545",68.5
+2014,14th Worcester,James J. O'Day,Democratic,"8,194",97.9
+2014,15th Worcester,Mary S. Keefe,Democratic,"4,731",97.9
+2014,16th Worcester,Daniel M. Donahue,Democratic,"5,351",97.9
+2014,17th Worcester,Kate D. Campanale,Republican,"4,688",50.2
+2014,18th Worcester,Joseph D. Mckenna,Republican,"7,809",60.1
+2013,6th Bristol,Carole A. Fiola,Democratic,"2,908",52.9
+2013,12th Essex,Leah Cole,Republican,"1,878",35.1
+2013,28th Middlesex,Wayne A. Matewsky,Democratic,"1,256",34.0
+2013,8th Suffolk,Jay D. Livingstone,Democratic,"5,771",94.8
+2013,12th Suffolk,Dan Cullinane,Democratic,"1,685",74.7
+2013,16th Worcester,Daniel M. Donahue,Democratic,"1,614",63.6
+2012,1st Barnstable,Cleon H. Turner,Democratic,"19,389",99.6
+2012,2nd Barnstable,Brian R. Mannal,Democratic,"15,568",99.6
+2012,3rd Barnstable,David T. Vieira,Republican,"17,724",99.1
+2012,4th Barnstable,Sarah K. Peake,Democratic,"22,502",98.9
+2012,5th Barnstable,Randy Hunt,Republican,"12,483",56.1
+2012,"Barnstable, Dukes and Nantucket",Timothy R. Madden,Democratic,"20,070",99.2
+2012,1st Berkshire,Gailanne M. Cariddi,Democratic,"15,705",99.7
+2012,2nd Berkshire,Paul W. Mark,Democratic,"16,917",99.1
+2012,3rd Berkshire,Tricia Farley-Bouvier,Democratic,"14,419",100.0
+2012,4th Berkshire,"William ""Smitty"" Pignatelli",Democratic,"16,670",82.0
+2012,1st Bristol,Fred Jay Barrows,Republican,"15,747",99.6
+2012,2nd Bristol,Paul R. Heroux,Democratic,"9,738",58.2
+2012,3rd Bristol,Shaunna L. O'Connell,Republican,"9,434",56.4
+2012,4th Bristol,Steven S. Howitt,Republican,"11,961",61.4
+2012,5th Bristol,Patricia A. Haddad,Democratic,"16,120",99.6
+2012,6th Bristol,David B. Sullivan,Democratic,"12,288",99.7
+2012,7th Bristol,Alan Silvia,Democratic,"9,449",99.9
+2012,8th Bristol,"Paul Schmid, III",Democratic,"14,576",99.6
+2012,9th Bristol,Christopher M. Markey,Democratic,"15,175",99.5
+2012,10th Bristol,William M. Straus,Democratic,"15,991",99.2
+2012,11th Bristol,Robert M. Koczera,Democratic,"12,001",99.1
+2012,12th Bristol,Keiko M. Orrall,Republican,"10,251",57.5
+2012,13th Bristol,Antonio F.D. Cabral,Democratic,"12,620",98.9
+2012,14th Bristol,Elizabeth A. Poirier,Republican,"16,136",99.6
+2012,1st Essex,Michael A. Costello,Democratic,"18,398",99.4
+2012,2nd Essex,Leonard Mirra,Republican,"12,663",52.2
+2012,3rd Essex,Brian S. Dempsey,Democratic,"14,394",99.6
+2012,4th Essex,Bradford R. Hill,Republican,"21,129",99.6
+2012,5th Essex,Ann-Margaret Ferrante,Democratic,"17,997",97.1
+2012,6th Essex,Jerald A. Parisella,Democratic,"16,355",98.9
+2012,7th Essex,John D. Keenan,Democratic,"16,344",99.3
+2012,8th Essex,Lori A. Ehrlich,Democratic,"17,186",99.1
+2012,9th Essex,Donald H. Wong,Republican,"16,034",98.8
+2012,10th Essex,Robert F. Fennell,Democratic,"10,739",81.7
+2012,11th Essex,Steven M. Walsh,Democratic,"11,607",98.2
+2012,12th Essex,Joyce A. Spiliotis,Democratic,"15,884",98.2
+2012,13th Essex,Theodore C. Speliotis,Democratic,"14,019",62.7
+2012,14th Essex,Diana DiZoglio,Democratic,"11,191",62.8
+2012,15th Essex,Linda Dean Campbell,Democratic,"15,154",99.5
+2012,16th Essex,Marcos A. Devers,Democratic,"9,270",83.9
+2012,17th Essex,Frank A. Moran,Democratic,"8,419",63.3
+2012,18th Essex,"James J. Lyons, Jr.",Republican,"11,810",51.0
+2012,1st Franklin,Stephen Kulik,Democratic,"20,002",99.9
+2012,2nd Franklin,Denise Andrews,Democratic,"8,296",45.2
+2012,1st Hampden,Todd M. Smola,Republican,"15,962",99.4
+2012,2nd Hampden,Brian M. Ashe,Democratic,"12,609",57.1
+2012,3rd Hampden,Nicholas A. Boldyga,Republican,"11,674",61.1
+2012,4th Hampden,"Donald F. Humason, Jr.",Republican,"14,732",99.2
+2012,5th Hampden,Aaron Vega,Democratic,"9,545",60.8
+2012,6th Hampden,Michael J. Finn,Democratic,"9,477",63.6
+2012,7th Hampden,Thomas M. Petrolati,Democratic,"15,013",98.8
+2012,8th Hampden,Joseph F. Wagner,Democratic,"13,860",98.4
+2012,9th Hampden,Sean Curran,Democratic,"12,134",84.2
+2012,10th Hampden,Cheryl Rivera,Democratic,"10,136",97.8
+2012,11th Hampden,Benjamin Swan,Democratic,"10,084",76.6
+2012,12th Hampden,"Angelo J. Puppolo, Jr.",Democratic,"13,271",70.1
+2012,1st Hampshire,Peter V. Kocot,Democratic,"19,090",99.6
+2012,2nd Hampshire,John W. Scibak,Democratic,"17,881",99.3
+2012,3rd Hampshire,Ellen S. Story,Democratic,"15,365",99.0
+2012,1st Middlesex,Sheila C. Harrington,Republican,"17,592",99.5
+2012,2nd Middlesex,James Arciero,Democratic,"15,043",65.1
+2012,3rd Middlesex,Kate Hogan,Democratic,"14,074",64.1
+2012,4th Middlesex,Danielle W. Gregoire,Democratic,"9,135",50.5
+2012,5th Middlesex,David Paul Linsky,Democratic,"14,818",64.6
+2012,6th Middlesex,Chris Walsh,Democratic,"14,931",98.5
+2012,7th Middlesex,Tom Sannicandro,Democratic,"10,054",71.0
+2012,8th Middlesex,Carolyn C. Dykema,Democratic,"14,141",61.3
+2012,9th Middlesex,Thomas M. Stanley,Democratic,"15,821",98.9
+2012,10th Middlesex,"John J. Lawn, Jr.",Democratic,"10,479",75.8
+2012,11th Middlesex,Kay S. Khan,Democratic,"14,329",74.3
+2012,12th Middlesex,Ruth B. Balser,Democratic,"15,923",98.8
+2012,13th Middlesex,Thomas P. Conroy,Democratic,"16,734",98.4
+2012,14th Middlesex,Cory Atkins,Democratic,"14,869",65.4
+2012,15th Middlesex,Jay R. Kaufman,Democratic,"18,138",99.4
+2012,16th Middlesex,"Thomas A. Golden, Jr.",Democratic,"13,382",98.8
+2012,17th Middlesex,David M. Nangle,Democratic,"10,246",76.5
+2012,18th Middlesex,Kevin J. Murphy,Democratic,"8,595",98.0
+2012,19th Middlesex,James R. Miceli,Democratic,"15,755",73.4
+2012,20th Middlesex,"Bradley H. Jones, Jr.",Republican,"19,539",99.4
+2012,21st Middlesex,Kenneth I. Gordon,Democratic,"11,802",55.2
+2012,22nd Middlesex,Marc T. Lombardo,Republican,"11,368",60.6
+2012,23rd Middlesex,Sean Garballey,Democratic,"19,077",81.2
+2012,24th Middlesex,David M. Rogers,Democratic,"12,633",57.4
+2012,25th Middlesex,Marjorie C. Decker,Democratic,"15,453",98.8
+2012,26th Middlesex,"Timothy J. Toomey, Jr.",Democratic,"10,898",68.3
+2012,27th Middlesex,Denise Provost,Democratic,"16,843",98.6
+2012,28th Middlesex,Stephen Stat Smith,Democratic,"9,597",98.0
+2012,29th Middlesex,Jonathan Hecht,Democratic,"17,742",98.8
+2012,30th Middlesex,James J. Dwyer,Democratic,"15,567",99.4
+2012,31st Middlesex,Jason M. Lewis,Democratic,"13,989",59.8
+2012,32nd Middlesex,Paul A. Brodeur,Democratic,"16,427",98.6
+2012,33rd Middlesex,Christopher G. Fallon,Democratic,"10,730",99.0
+2012,34th Middlesex,"Carl M. Sciortino, Jr.",Democratic,"13,842",83.9
+2012,35th Middlesex,"Paul J. Donato, Sr.",Democratic,"14,305",98.6
+2012,36th Middlesex,Colleen M. Garry,Democratic,"12,076",58.6
+2012,37th Middlesex,Jennifer E. Benson,Democratic,"16,701",99.2
+2012,1st Norfolk,Bruce J. Ayers,Democratic,"14,722",98.7
+2012,2nd Norfolk,Tackey Chan,Democratic,"13,980",98.1
+2012,3rd Norfolk,Ronald Mariano,Democratic,"14,871",97.5
+2012,4th Norfolk,James Michael Murphy,Democratic,"15,822",80.7
+2012,5th Norfolk,Mark J. Cusack,Democratic,"15,442",98.3
+2012,6th Norfolk,William C. Galvin,Democratic,"16,540",99.6
+2012,7th Norfolk,"Walter F. Timilty, Jr.",Democratic,"16,844",99.2
+2012,8th Norfolk,Louis L. Kafka,Democratic,"17,576",98.9
+2012,9th Norfolk,Daniel B. Winslow,Republican,"18,091",99.1
+2012,10th Norfolk,Jeffrey N. Roy,Democratic,"11,850",54.2
+2012,11th Norfolk,Paul McMurtry,Democratic,"17,318",99.1
+2012,12th Norfolk,John H. Rogers,Democratic,"12,579",60.6
+2012,13th Norfolk,Denise C. Garlick,Democratic,"17,531",98.6
+2012,14th Norfolk,Alice Hanlon Peisch,Democratic,"17,129",98.6
+2012,15th Norfolk,Frank Israel Smizik,Democratic,"15,033",99.7
+2012,1st Plymouth,Vinny M. deMacedo,Republican,"17,926",99.1
+2012,2nd Plymouth,Susan Williams Gifford,Republican,"15,996",98.6
+2012,3rd Plymouth,Garrett J. Bradley,Democratic,"18,942",99.3
+2012,4th Plymouth,James M. Cantwell,Democratic,"16,128",68.4
+2012,5th Plymouth,Rhonda L. Nyman,Democratic,"12,965",57.8
+2012,6th Plymouth,Josh S. Cutler,Democratic,"12,433",55.0
+2012,7th Plymouth,Geoff Diehl,Republican,"10,942",54.2
+2012,8th Plymouth,Angelo L. D'Emilia,Republican,"9,287",52.2
+2012,9th Plymouth,Michael D. Brady,Democratic,"10,474",99.9
+2012,10th Plymouth,Christine E. Canavan,Democratic,"13,687",99.7
+2012,11th Plymouth,Claire D. Cronin,Democratic,"11,422",63.2
+2012,12th Plymouth,"Thomas J. Calter, III",Democratic,"13,436",62.5
+2012,1st Suffolk,Carlo P. Basile,Democratic,"8,137",97.7
+2012,2nd Suffolk,Eugene L. O'Flaherty,Democratic,"10,282",81.8
+2012,3rd Suffolk,Aaron M. Michlewitz,Democratic,"13,031",98.5
+2012,4th Suffolk,Nick Collins,Democratic,"14,927",98.4
+2012,5th Suffolk,Carlos Tony Henriquez,Democratic,"9,179",77.6
+2012,6th Suffolk,Russell E. Holmes,Democratic,"12,357",98.7
+2012,7th Suffolk,Gloria L. Fox,Democratic,"9,561",98.5
+2012,8th Suffolk,Martha Walz,Democratic,"14,844",98.1
+2012,9th Suffolk,Byron Rushing,Democratic,"11,517",98.3
+2012,10th Suffolk,Edward F. Coppinger,Democratic,"15,926",98.7
+2012,11th Suffolk,Elizabeth A. Malia,Democratic,"14,632",98.9
+2012,12th Suffolk,Linda Dorcena Forry,Democratic,"15,443",98.8
+2012,13th Suffolk,Martin J. Walsh,Democratic,"13,744",98.2
+2012,14th Suffolk,Angelo M. Scaccia,Democratic,"14,183",98.5
+2012,15th Suffolk,Jeffrey Sanchez,Democratic,"14,417",98.7
+2012,16th Suffolk,Kathi-Anne Reinstein,Democratic,"11,761",98.5
+2012,17th Suffolk,Kevin G. Honan,Democratic,"11,267",98.3
+2012,18th Suffolk,Michael J. Moran,Democratic,"9,557",98.5
+2012,19th Suffolk,Robert A. DeLeo,Democratic,"11,455",77.5
+2012,1st Worcester,Kimberly N. Ferguson,Republican,"18,218",99.2
+2012,2nd Worcester,Jonathan D. Zlotnik,Democratic,"8,528",50.9
+2012,3rd Worcester,Stephen L. DiNatale,Democratic,"12,835",99.8
+2012,4th Worcester,Dennis A. Rosa,Democratic,"10,346",57.1
+2012,5th Worcester,Anne M. Gobi,Democratic,"14,063",69.7
+2012,6th Worcester,Peter J. Durant,Republican,"9,676",55.4
+2012,7th Worcester,Paul K. Frost,Republican,"15,489",99.4
+2012,8th Worcester,Kevin J. Kuros,Republican,"10,487",49.8
+2012,9th Worcester,"George N. Peterson, Jr.",Republican,"16,543",99.6
+2012,10th Worcester,John V. Fernandes,Democratic,"16,234",98.8
+2012,11th Worcester,Matthew A. Beaton,Republican,"16,572",99.0
+2012,12th Worcester,"Harold P. Naughton, Jr.",Democratic,"15,859",94.5
+2012,13th Worcester,"John J. Mahoney, Jr.",Democratic,"12,019",98.4
+2012,14th Worcester,James J. O'Day,Democratic,"9,914",61.1
+2012,15th Worcester,Mary S. Keefe,Democratic,"7,654",75.0
+2012,16th Worcester,John P. Fresolo,Democratic,"9,287",97.9
+2012,17th Worcester,"John J. Binienda, Sr.",Democratic,"10,595",76.3
+2012,18th Worcester,Ryan C. Fattman,Republican,"13,411",70.0
+2011,3rd Berkshire,Tricia Farley-Bouvier,Democratic,"1,940",32.8
+2011,12th Bristol,Keiko M. Orrall,Republican,"2,137",54.7
+2011,10th Middlesex,"John J. Lawn, Jr.",Democratic,"1,815",67.4
+2011,6th Worcester,Peter J. Durant,Republican,"3,324",41.9
+2010,1st Barnstable,Cleon H. Turner,Democratic,"11,146",56.8
+2010,2nd Barnstable,Demetrius J. Atsalis,Democratic,"8,551",59.0
+2010,3rd Barnstable,David T. Vieira,Republican,"10,036",53.9
+2010,4th Barnstable,Sarah K. Peake,Democratic,"13,763",62.9
+2010,5th Barnstable,Randy Hunt,Republican,"9,966",53.0
+2010,"Barnstable, Dukes and Nantucket",Timothy R. Madden,Democratic,"15,398",98.8
+2010,1st Berkshire,Gailanne M. Cariddi,Democratic,"8,874",99.4
+2010,2nd Berkshire,Paul W. Mark,Democratic,"8,180",54.4
+2010,3rd Berkshire,Christopher N. Speranzo,Democratic,"5,446",55.0
+2010,4th Berkshire,"William ""Smitty"" Pignatelli",Democratic,"11,279",81.8
+2010,1st Bristol,Fred Jay Barrows,Republican,"11,882",99.6
+2010,2nd Bristol,George T. Ross,Republican,"5,630",48.6
+2010,3rd Bristol,Shaunna L. O'Connell,Republican,"5,725",50.1
+2010,4th Bristol,Steven S. Howitt,Republican,"8,441",54.4
+2010,5th Bristol,Patricia A. Haddad,Democratic,"11,105",98.8
+2010,6th Bristol,David B. Sullivan,Democratic,"7,047",63.6
+2010,7th Bristol,Kevin Aguiar,Democratic,"5,402",75.2
+2010,8th Bristol,"Paul Schmid, III",Democratic,"7,253",67.6
+2010,9th Bristol,Christopher M. Markey,Democratic,"8,236",53.7
+2010,10th Bristol,William M. Straus,Democratic,"9,579",57.2
+2010,11th Bristol,Robert M. Koczera,Democratic,"7,041",66.6
+2010,12th Bristol,Stephen R. Canessa,Democratic,"8,744",98.4
+2010,13th Bristol,Antonio F.D. Cabral,Democratic,"8,031",98.4
+2010,14th Bristol,Elizabeth A. Poirier,Republican,"12,828",99.4
+2010,1st Essex,Michael A. Costello,Democratic,"11,289",65.1
+2010,2nd Essex,Harriett L. Stanley,Democratic,"9,800",51.8
+2010,3rd Essex,Brian S. Dempsey,Democratic,"8,727",100.0
+2010,4th Essex,Bradford R. Hill,Republican,"15,186",99.6
+2010,5th Essex,Ann-Margaret Ferrante,Democratic,"10,602",65.1
+2010,6th Essex,Jerald A. Parisella,Democratic,"9,111",60.3
+2010,7th Essex,John D. Keenan,Democratic,"10,533",99.0
+2010,8th Essex,Lori A. Ehrlich,Democratic,"11,151",61.9
+2010,9th Essex,Donald H. Wong,Republican,"8,943",51.0
+2010,10th Essex,Robert F. Fennell,Democratic,"7,126",95.5
+2010,11th Essex,Steven M. Walsh,Democratic,"7,299",98.5
+2010,12th Essex,Joyce A. Spiliotis,Democratic,"9,584",59.5
+2010,13th Essex,Theodore C. Speliotis,Democratic,"8,747",51.4
+2010,14th Essex,David M. Torrisi,Democratic,"6,171",52.5
+2010,15th Essex,Linda Dean Campbell,Democratic,"7,038",52.1
+2010,16th Essex,Marcos A. Devers,Democratic,"1,374",88.5
+2010,16th Essex,Marcos A. Devers,Democratic,"4,775",82.1
+2010,17th Essex,Paul Adams,Republican,"7,928",54.2
+2010,18th Essex,"James J. Lyons, Jr.",Republican,"8,770",53.2
+2010,1st Franklin,Stephen Kulik,Democratic,"14,882",99.7
+2010,2nd Franklin,Denise Andrews,Democratic,"6,890",52.5
+2010,1st Hampden,Todd M. Smola,Republican,"12,470",99.2
+2010,2nd Hampden,Brian Michael Ashe,Democratic,"8,699",51.3
+2010,3rd Hampden,Nicholas A. Boldyga,Republican,"6,085",39.7
+2010,4th Hampden,"Donald F. Humason, Jr.",Republican,"10,286",99.3
+2010,5th Hampden,Michael F. Kane,Democratic,"8,074",99.4
+2010,6th Hampden,Michael J. Finn,Democratic,"6,583",54.6
+2010,7th Hampden,Thomas M. Petrolati,Democratic,"8,941",97.4
+2010,8th Hampden,Joseph F. Wagner,Democratic,"8,931",97.8
+2010,9th Hampden,Sean Curran,Democratic,"7,298",80.1
+2010,10th Hampden,Cheryl Rivera,Democratic,"4,155",97.2
+2010,11th Hampden,Benjamin Swan,Democratic,"5,559",96.1
+2010,12th Hampden,"Angelo J. Puppolo, Jr.",Democratic,"10,006",64.8
+2010,1st Hampshire,Peter V. Kocot,Democratic,"14,284",99.4
+2010,2nd Hampshire,John W. Scibak,Democratic,"11,756",99.0
+2010,3rd Hampshire,Ellen S. Story,Democratic,"8,087",77.4
+2010,1st Middlesex,Sheila C. Harrington,Republican,"10,378",62.5
+2010,2nd Middlesex,James Arciero,Democratic,"13,300",98.8
+2010,3rd Middlesex,Kate Hogan,Democratic,"10,114",60.0
+2010,4th Middlesex,Steven L. Levy,Republican,"7,443",50.3
+2010,5th Middlesex,David Paul Linsky,Democratic,"11,960",98.9
+2010,6th Middlesex,Chris Walsh,Democratic,"9,062",69.8
+2010,7th Middlesex,Tom Sannicandro,Democratic,"7,706",63.7
+2010,8th Middlesex,Carolyn C. Dykema,Democratic,"11,925",71.2
+2010,9th Middlesex,Thomas M. Stanley,Democratic,"11,525",98.4
+2010,10th Middlesex,Peter J. Koutoujian,Democratic,"7,547",73.7
+2010,11th Middlesex,Kay S. Khan,Democratic,"12,228",98.4
+2010,12th Middlesex,Ruth B. Balser,Democratic,"11,764",98.4
+2010,13th Middlesex,Thomas P. Conroy,Democratic,"11,896",97.7
+2010,14th Middlesex,Cory Atkins,Democratic,"10,800",58.8
+2010,15th Middlesex,Jay R. Kaufman,Democratic,"12,332",99.1
+2010,16th Middlesex,"Thomas A. Golden, Jr.",Democratic,"8,987",98.9
+2010,17th Middlesex,David M. Nangle,Democratic,"7,589",99.3
+2010,18th Middlesex,Kevin J. Murphy,Democratic,"4,782",99.6
+2010,19th Middlesex,James R. Miceli,Democratic,"9,857",63.5
+2010,20th Middlesex,"Bradley H. Jones, Jr.",Republican,"15,878",99.3
+2010,21st Middlesex,Charles A. Murphy,Democratic,"11,491",97.2
+2010,22nd Middlesex,Marc T. Lombardo,Republican,"7,405",50.5
+2010,23rd Middlesex,Sean Garballey,Democratic,"15,082",98.3
+2010,24th Middlesex,William N. Brownsberger,Democratic,"12,732",77.5
+2010,25th Middlesex,Alice K. Wolf,Democratic,"10,743",99.2
+2010,26th Middlesex,"Timothy J. Toomey, Jr.",Democratic,"9,637",98.6
+2010,27th Middlesex,Denise Provost,Democratic,"10,955",98.0
+2010,28th Middlesex,Stephen Stat Smith,Democratic,"5,855",63.9
+2010,29th Middlesex,Jonathan Hecht,Democratic,"11,886",98.6
+2010,30th Middlesex,James J. Dwyer,Democratic,"9,046",63.4
+2010,31st Middlesex,Jason M. Lewis,Democratic,"8,970",52.3
+2010,32nd Middlesex,Paul A. Brodeur,Democratic,"9,252",51.4
+2010,33rd Middlesex,Christopher G. Fallon,Democratic,"8,009",98.3
+2010,34th Middlesex,"Carl M. Sciortino, Jr.",Democratic,"7,599",73.4
+2010,35th Middlesex,"Paul J. Donato, Sr.",Democratic,"9,306",76.2
+2010,36th Middlesex,Colleen M. Garry,Democratic,"8,196",53.8

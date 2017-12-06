@@ -1,0 +1,295 @@
+city_town,Amount,house_district
+abington,19000.0,['7th Plymouth']
+acton,41749.06,"['14th Middlesex', '37th Middlesex']"
+acushnet,2500.0,['11th Bristol']
+agawam,2850.0,['3rd Hampden']
+amesbury,7500.0,['1st Essex']
+amherst,6600.0,['3rd Hampshire']
+andover,117582.25,"['17th Essex', '18th Essex']"
+arlington,55172.0,"['23rd Middlesex', '24th Middlesex']"
+ashburnham,12492.11,['2nd Worcester']
+ashby,500.0,['1st Middlesex']
+ashland,10300.0,['7th Middlesex']
+athol,5520.0,['2nd Franklin']
+attleboro,5756.13,"['2nd Bristol', '14th Bristol']"
+auburn,22280.0,['7th Worcester']
+avon,48500.0,['6th Norfolk']
+ayer,2500.0,"['1st Middlesex', '37th Middlesex']"
+barnstable,10000.0,"['2nd Barnstable', '5th Barnstable']"
+barre,4000.0,['5th Worcester']
+bedford,14775.0,['21st Middlesex']
+belchertown,2500.0,"['2nd Franklin', '7th Hampden']"
+bellingham,6500.0,['8th Worcester']
+belmont,106631.0,['24th Middlesex']
+berkley,2000.0,['12th Bristol']
+berlin,2000.0,['12th Worcester']
+bernardston,1500.0,['2nd Berkshire']
+beverly,52025.0,['6th Essex']
+billerica,12572.0,['22nd Middlesex']
+blackstone,500.0,['8th Worcester']
+bolton,2500.0,['3rd Middlesex']
+boston,4083232.7200000007,"['1st Suffolk', '2nd Suffolk', '3rd Suffolk', '4th Suffolk', '5th Suffolk', '6th Suffolk', '7th Suffolk', '8th Suffolk', '9th Suffolk', '10th Suffolk', '11th Suffolk', '12th Suffolk', '13th Suffolk', '14th Suffolk', '15th Suffolk', '17th Suffolk', '18th Suffolk']"
+bourne,1000.0,"['3rd Barnstable', '5th Barnstable']"
+boxborough,4500.0,['37th Middlesex']
+boxford,31000.0,"['2nd Essex', '18th Essex']"
+boylston,10500.0,['12th Worcester']
+braintree,197560.34,['5th Norfolk']
+brewster,5525.0,"['1st Barnstable', '4th Barnstable']"
+bridgewater,12500.0,['8th Plymouth']
+brimfield,500.0,['1st Hampden']
+brockton,31855.0,"['9th Plymouth', '10th Plymouth', '11th Plymouth']"
+brookfield,500.0,['5th Worcester']
+brookline,313950.0,"['15th Norfolk', '10th Suffolk', '15th Suffolk', '18th Suffolk']"
+burlington,37000.0,['21st Middlesex']
+cambridge,636648.01,"['24th Middlesex', '25th Middlesex', '26th Middlesex', '29th Middlesex', '8th Suffolk']"
+canton,89500.0,['6th Norfolk']
+carlisle,11000.0,['14th Middlesex']
+carver,4000.0,['2nd Plymouth']
+charlton,6500.0,['7th Worcester']
+chatham,4166.0,['4th Barnstable']
+chelmsford,310515.12,"['1st Middlesex', '14th Middlesex', '16th Middlesex', '17th Middlesex']"
+chelsea,9000.0,"['2nd Suffolk', '16th Suffolk']"
+chester,500.0,['1st Franklin']
+chicopee,13930.0,"['6th Hampden', '7th Hampden', '8th Hampden', '9th Hampden']"
+chilmark,4500.0,"['Barnstable, Dukes and Nantucket']"
+clinton,5000.0,['12th Worcester']
+cohasset,38500.0,['3rd Plymouth']
+colrain,500.0,['2nd Berkshire']
+concord,120000.0,['14th Middlesex']
+conway,1500.0,['1st Franklin']
+dalton,2000.0,['2nd Berkshire']
+danvers,29990.0,['13th Essex']
+dartmouth,82223.29,['9th Bristol']
+dedham,105246.25,['11th Norfolk']
+deerfield,500.0,['1st Franklin']
+dennis,16500.0,['1st Barnstable']
+douglas,4500.0,['18th Worcester']
+dover,84885.2,['13th Norfolk']
+dracut,13475.0,['36th Middlesex']
+dudley,3500.0,['6th Worcester']
+dunstable,5500.0,['1st Middlesex']
+duxbury,75085.0,"['6th Plymouth', '12th Plymouth']"
+east bridgewater,11000.0,"['7th Plymouth', '10th Plymouth']"
+east brookfield,500.0,['5th Worcester']
+east longmeadow,12147.3,"['2nd Hampden', '12th Hampden']"
+eastham,1000.0,['4th Barnstable']
+easthampton,11075.0,['2nd Hampshire']
+easton,5500.0,"['3rd Bristol', '11th Plymouth']"
+edgartown,1000.0,"['Barnstable, Dukes and Nantucket']"
+essex,8500.0,['5th Essex']
+everett,19000.0,['28th Middlesex']
+fairhaven,111188.83,['10th Bristol']
+fall river,44675.65,"['6th Bristol', '7th Bristol', '8th Bristol']"
+falmouth,8000.0,"['3rd Barnstable', 'Barnstable, Dukes and Nantucket']"
+fitchburg,4000.0,['3rd Worcester']
+foxborough,14500.0,['1st Bristol']
+framingham,47000.0,"['6th Middlesex', '7th Middlesex', '13th Middlesex']"
+franklin,31885.75,['10th Norfolk']
+freetown,500.0,['6th Bristol']
+gardner,1000.0,['2nd Worcester']
+georgetown,6748.610000000001,['2nd Essex']
+gloucester,19500.0,['5th Essex']
+goshen,500.0,['1st Franklin']
+grafton,9000.0,['9th Worcester']
+granby,5500.0,"['2nd Hampshire', '3rd Hampshire']"
+great barrington,17500.0,['4th Berkshire']
+greenfield,1500.0,['2nd Berkshire']
+groton,13000.0,['1st Middlesex']
+groveland,1500.0,['2nd Essex']
+hadley,1000.0,['2nd Hampshire']
+halifax,1500.0,['12th Plymouth']
+hamilton,20500.0,['4th Essex']
+hampden,6000.0,['2nd Hampden']
+hancock,500.0,['1st Berkshire']
+hanover,34000.0,['5th Plymouth']
+hanson,3000.0,['6th Plymouth']
+harvard,34500.0,['37th Middlesex']
+harwich,3500.0,['4th Barnstable']
+hatfield,2000.0,['1st Hampshire']
+haverhill,21500.0,"['2nd Essex', '3rd Essex', '14th Essex', '15th Essex']"
+heath,2500.0,['2nd Berkshire']
+hingham,130000.0,['3rd Plymouth']
+holbrook,4500.0,"['3rd Norfolk', '5th Norfolk']"
+holden,17041.58,['1st Worcester']
+holliston,22821.690000000002,['8th Middlesex']
+holyoke,8000.0,['5th Hampden']
+hopedale,5000.0,['10th Worcester']
+hopkinton,106142.13,['8th Middlesex']
+hudson,17497.0,['3rd Middlesex']
+hull,9500.0,['3rd Plymouth']
+ipswich,22000.0,['4th Essex']
+kingston,24840.68,['12th Plymouth']
+lakeville,10500.0,['12th Bristol']
+lancaster,6000.0,['12th Worcester']
+lanesborough,1000.0,['1st Berkshire']
+lawrence,21009.0,"['14th Essex', '16th Essex', '17th Essex']"
+lee,8700.0,['4th Berkshire']
+leicester,4000.0,['17th Worcester']
+lenox,16500.0,['4th Berkshire']
+leominster,21000.0,['4th Worcester']
+leverett,1000.0,['1st Franklin']
+lexington,142000.0,['15th Middlesex']
+lincoln,31500.0,['9th Middlesex']
+littleton,15500.0,['1st Middlesex']
+longmeadow,58960.18,['2nd Hampden']
+lowell,70783.13,"['16th Middlesex', '17th Middlesex', '18th Middlesex']"
+ludlow,18915.64,['7th Hampden']
+lunenburg,7485.5,['3rd Worcester']
+lynn,190607.06,"['8th Essex', '9th Essex', '10th Essex', '11th Essex']"
+lynnfield,71000.0,['20th Middlesex']
+malden,29500.0,"['32nd Middlesex', '33rd Middlesex', '35th Middlesex']"
+mansfield,26000.0,"['1st Bristol', '14th Bristol', '8th Norfolk']"
+marblehead,85500.0,['8th Essex']
+marion,7250.0,['10th Bristol']
+marlborough,21108.87,"['4th Middlesex', '13th Middlesex']"
+marshfield,41000.0,['4th Plymouth']
+mashpee,29265.8,['3rd Barnstable']
+mattapoisett,7000.0,['10th Bristol']
+maynard,500.0,['3rd Middlesex']
+medfield,35500.0,"['9th Norfolk', '13th Norfolk']"
+medford,59874.28,"['23rd Middlesex', '34th Middlesex', '35th Middlesex']"
+medway,28152.62,"['10th Norfolk', '10th Worcester']"
+melrose,62383.71,['32nd Middlesex']
+mendon,5500.0,['10th Worcester']
+merrimac,2000.0,['2nd Essex']
+methuen,37172.68,"['14th Essex', '15th Essex', '17th Essex']"
+middleborough,7231.17,"['12th Bristol', '2nd Plymouth', '12th Plymouth']"
+middleton,17000.0,"['13th Essex', '20th Middlesex']"
+milford,52500.0,['10th Worcester']
+millbury,20250.0,['7th Worcester']
+millis,3500.0,"['5th Middlesex', '9th Norfolk']"
+millville,1000.0,['8th Worcester']
+milton,216000.0,"['7th Norfolk', '12th Suffolk']"
+monson,3500.0,['2nd Hampden']
+monterey,1000.0,['4th Berkshire']
+nahant,11000.0,['11th Essex']
+nantucket,23500.0,"['Barnstable, Dukes and Nantucket']"
+natick,37500.0,['5th Middlesex']
+needham,112676.88,['13th Norfolk']
+new bedford,55620.119999999995,"['8th Bristol', '9th Bristol', '10th Bristol', '11th Bristol', '13th Bristol']"
+new marlborough,3000.0,['4th Berkshire']
+new salem,500.0,['2nd Franklin']
+newbury,4000.0,['2nd Essex']
+newburyport,15847.029999999999,['1st Essex']
+newton,377399.95,"['10th Middlesex', '11th Middlesex', '12th Middlesex']"
+norfolk,8000.0,['9th Norfolk']
+north adams,1000.0,['1st Berkshire']
+north andover,39000.0,"['14th Essex', '18th Essex']"
+north attleborough,3000.0,['14th Bristol']
+north reading,24500.0,['20th Middlesex']
+northampton,6000.0,['1st Hampshire']
+northborough,9000.0,"['4th Middlesex', '12th Worcester']"
+northbridge,5500.0,['9th Worcester']
+norton,6500.0,"['1st Bristol', '4th Bristol']"
+norwell,54000.0,['5th Plymouth']
+norwood,81746.2,['12th Norfolk']
+oak bluffs,8304.2,"['Barnstable, Dukes and Nantucket']"
+orange,4500.0,['2nd Franklin']
+orleans,2000.0,['4th Barnstable']
+oxford,7000.0,"['7th Worcester', '18th Worcester']"
+palmer,5000.0,['1st Hampden']
+paxton,17500.0,['1st Worcester']
+peabody,41600.0,"['12th Essex', '13th Essex']"
+pelham,1500.0,['3rd Hampshire']
+pembroke,17993.48,['6th Plymouth']
+pepperell,6500.0,['1st Middlesex']
+petersham,500.0,['2nd Franklin']
+pittsfield,18500.0,"['2nd Berkshire', '3rd Berkshire']"
+plainville,3000.0,['9th Norfolk']
+plymouth,48500.0,"['5th Barnstable', '1st Plymouth', '12th Plymouth']"
+plympton,4000.0,['12th Plymouth']
+princeton,5500.0,['1st Worcester']
+provincetown,10800.0,['4th Barnstable']
+quincy,175348.22,"['1st Norfolk', '2nd Norfolk', '3rd Norfolk', '13th Suffolk']"
+randolph,26251.65,"['1st Norfolk', '5th Norfolk', '7th Norfolk']"
+raynham,17500.0,['8th Plymouth']
+reading,42650.0,"['20th Middlesex', '30th Middlesex']"
+rehoboth,5500.0,['4th Bristol']
+revere,31226.94,"['16th Suffolk', '19th Suffolk']"
+richmond,3500.0,['4th Berkshire']
+rochester,4000.0,['10th Bristol']
+rockland,12262.279999999999,['5th Plymouth']
+rockport,4500.0,['5th Essex']
+rowley,10000.0,"['2nd Essex', '4th Essex']"
+russell,1564.0,['4th Berkshire']
+rutland,4000.0,['1st Worcester']
+salem,29700.0,['7th Essex']
+salisbury,4300.0,['1st Essex']
+sandwich,11000.0,['5th Barnstable']
+saugus,28000.0,"['9th Essex', '16th Suffolk']"
+savoy,500.0,['2nd Berkshire']
+scituate,44000.0,"['3rd Plymouth', '4th Plymouth']"
+seekonk,10500.0,['4th Bristol']
+sharon,46000.0,['8th Norfolk']
+sherborn,29500.0,['5th Middlesex']
+shirley,1662.2,['37th Middlesex']
+shrewsbury,62500.0,['11th Worcester']
+somerset,9809.76,['5th Bristol']
+somerville,98777.0,"['26th Middlesex', '27th Middlesex', '34th Middlesex']"
+south hadley,6062.66,['2nd Hampshire']
+southborough,40000.0,['8th Middlesex']
+southbridge,2000.0,['6th Worcester']
+southwick,6000.0,['3rd Hampden']
+spencer,1500.0,"['5th Worcester', '6th Worcester']"
+springfield,140559.48,"['6th Hampden', '7th Hampden', '9th Hampden', '10th Hampden', '11th Hampden', '12th Hampden']"
+sterling,6018.0,"['1st Worcester', '12th Worcester']"
+stockbridge,11000.0,['4th Berkshire']
+stoneham,256111.36000000002,['31st Middlesex']
+stoughton,38925.64,"['6th Norfolk', '8th Norfolk']"
+stow,7500.0,['3rd Middlesex']
+sturbridge,16000.0,['1st Hampden']
+sudbury,64000.0,['13th Middlesex']
+sutton,34500.0,['18th Worcester']
+swampscott,97500.0,['8th Essex']
+swansea,2500.0,"['4th Bristol', '5th Bristol']"
+taunton,29285.05,"['3rd Bristol', '5th Bristol', '12th Bristol']"
+tewksbury,20500.0,['19th Middlesex']
+topsfield,13000.0,['4th Essex']
+townsend,1000.0,['1st Middlesex']
+truro,1000.0,['4th Barnstable']
+tyngsborough,2500.0,['36th Middlesex']
+upton,8500.0,['9th Worcester']
+uxbridge,4764.0,['8th Worcester']
+wakefield,67130.0,"['9th Essex', '32nd Middlesex']"
+walpole,42500.0,"['8th Norfolk', '9th Norfolk', '11th Norfolk', '12th Norfolk']"
+waltham,106250.0,"['9th Middlesex', '10th Middlesex']"
+ware,2500.0,"['1st Hampden', '5th Worcester']"
+wareham,4000.0,['2nd Plymouth']
+warren,500.0,['1st Hampden']
+washington,1278.4,['4th Berkshire']
+watertown,105291.4,"['10th Middlesex', '29th Middlesex']"
+wayland,150000.0,"['13th Middlesex', '14th Norfolk']"
+webster,9500.0,['18th Worcester']
+wellesley,188380.0,['14th Norfolk']
+wellfleet,500.0,['4th Barnstable']
+wendell,5500.0,['2nd Franklin']
+wenham,11500.0,['4th Essex']
+west boylston,2533.0,['14th Worcester']
+west bridgewater,5500.0,['10th Plymouth']
+west brookfield,7500.0,['5th Worcester']
+west newbury,5000.0,['2nd Essex']
+west springfield,54676.630000000005,['6th Hampden']
+west stockbridge,500.0,['4th Berkshire']
+west tisbury,1000.0,"['Barnstable, Dukes and Nantucket']"
+westborough,45500.0,"['4th Middlesex', '8th Middlesex', '11th Worcester']"
+westfield,18104.48,['4th Hampden']
+westford,25500.0,['1st Middlesex']
+westhampton,1500.0,['1st Hampshire']
+westminster,6000.0,"['1st Worcester', '2nd Worcester']"
+weston,257000.0,['14th Norfolk']
+westport,9500.0,['8th Bristol']
+westwood,75500.0,['11th Norfolk']
+weymouth,33619.09,"['3rd Norfolk', '4th Norfolk']"
+whately,500.0,['1st Franklin']
+whitman,11325.0,['7th Plymouth']
+wilbraham,23000.0,['12th Hampden']
+williamstown,8500.0,['1st Berkshire']
+wilmington,128188.26,"['19th Middlesex', '21st Middlesex']"
+winchendon,500.0,['2nd Worcester']
+winchester,131800.0,['31st Middlesex']
+winthrop,41000.0,['19th Suffolk']
+woburn,42878.3,"['15th Middlesex', '30th Middlesex']"
+worcester,164272.16,"['13th Worcester', '14th Worcester', '15th Worcester', '16th Worcester', '17th Worcester']"
+worthington,1000.0,['1st Franklin']
+wrentham,18500.0,['9th Norfolk']
+yarmouth,125617.39,"['1st Barnstable', '2nd Barnstable']"

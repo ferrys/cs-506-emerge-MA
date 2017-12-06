@@ -1,0 +1,358 @@
+,city_town,house_district
+0,abington,['7th Plymouth']
+1,acton,"['14th Middlesex', '37th Middlesex']"
+2,acushnet,['11th Bristol']
+3,adams,['1st Berkshire']
+4,agawam,['3rd Hampden']
+5,alford,['4th Berkshire']
+6,amesbury,['1st Essex']
+7,amherst,['3rd Hampshire']
+8,andover,"['17th Essex', '18th Essex']"
+9,aquinnah,"['Barnstable, Dukes and Nantucket']"
+10,arlington,"['23rd Middlesex', '24th Middlesex']"
+11,ashburnham,['2nd Worcester']
+12,ashby,['1st Middlesex']
+13,ashfield,['1st Franklin']
+14,ashland,['7th Middlesex']
+15,athol,['2nd Franklin']
+16,attleboro,"['2nd Bristol', '14th Bristol']"
+17,auburn,['7th Worcester']
+18,avon,['6th Norfolk']
+19,ayer,"['1st Middlesex', '37th Middlesex']"
+20,barnstable,"['2nd Barnstable', '5th Barnstable']"
+21,barre,['5th Worcester']
+22,becket,['4th Berkshire']
+23,bedford,['21st Middlesex']
+24,belchertown,"['2nd Franklin', '7th Hampden']"
+25,bellingham,['8th Worcester']
+26,belmont,['24th Middlesex']
+27,berkley,['12th Bristol']
+28,berlin,['12th Worcester']
+29,bernardston,['2nd Berkshire']
+30,beverly,['6th Essex']
+31,billerica,['22nd Middlesex']
+32,blackstone,['8th Worcester']
+33,blandford,['4th Berkshire']
+34,bolton,['3rd Middlesex']
+35,boston,"['1st Suffolk', '2nd Suffolk', '3rd Suffolk', '4th Suffolk', '5th Suffolk', '6th Suffolk', '7th Suffolk', '8th Suffolk', '9th Suffolk', '10th Suffolk', '11th Suffolk', '12th Suffolk', '13th Suffolk', '14th Suffolk', '15th Suffolk', '17th Suffolk', '18th Suffolk']"
+36,bourne,"['3rd Barnstable', '5th Barnstable']"
+37,boxborough,['37th Middlesex']
+38,boxford,"['2nd Essex', '18th Essex']"
+39,boylston,['12th Worcester']
+40,braintree,['5th Norfolk']
+41,brewster,"['1st Barnstable', '4th Barnstable']"
+42,bridgewater,['8th Plymouth']
+43,brimfield,['1st Hampden']
+44,brockton,"['9th Plymouth', '10th Plymouth', '11th Plymouth']"
+45,brookfield,['5th Worcester']
+46,brookline,"['15th Norfolk', '10th Suffolk', '15th Suffolk', '18th Suffolk']"
+47,buckland,['1st Franklin']
+48,burlington,['21st Middlesex']
+49,cambridge,"['24th Middlesex', '25th Middlesex', '26th Middlesex', '29th Middlesex', '8th Suffolk']"
+50,canton,['6th Norfolk']
+51,carlisle,['14th Middlesex']
+52,carver,['2nd Plymouth']
+53,charlemont,['2nd Berkshire']
+54,charlton,['7th Worcester']
+55,charlton pcts. 1-3,['6th Worcester']
+56,chatham,['4th Barnstable']
+57,chelmsford,"['1st Middlesex', '14th Middlesex', '16th Middlesex', '17th Middlesex']"
+58,chelsea,"['2nd Suffolk', '16th Suffolk']"
+59,cheshire,['1st Berkshire']
+60,chester,['1st Franklin']
+61,chesterfield,['1st Franklin']
+62,chicopee,"['6th Hampden', '7th Hampden', '8th Hampden', '9th Hampden']"
+63,chilmark,"['Barnstable, Dukes and Nantucket']"
+64,clarksburg,['1st Berkshire']
+65,clinton,['12th Worcester']
+66,cohasset,['3rd Plymouth']
+67,colrain,['2nd Berkshire']
+68,concord,['14th Middlesex']
+69,conway,['1st Franklin']
+70,cummington,['1st Franklin']
+71,dalton,['2nd Berkshire']
+72,danvers,['13th Essex']
+73,dartmouth,['9th Bristol']
+74,dedham,['11th Norfolk']
+75,deerfield,['1st Franklin']
+76,dennis,['1st Barnstable']
+77,dighton,['5th Bristol']
+78,douglas,['18th Worcester']
+79,dover,['13th Norfolk']
+80,dracut,['36th Middlesex']
+81,dudley,['6th Worcester']
+82,dunstable,['1st Middlesex']
+83,duxbury,"['6th Plymouth', '12th Plymouth']"
+84,east bridgewater,"['7th Plymouth', '10th Plymouth']"
+85,east brookfield,['5th Worcester']
+86,east longmeadow,"['2nd Hampden', '12th Hampden']"
+87,eastham,['4th Barnstable']
+88,easthampton,['2nd Hampshire']
+89,easton,"['3rd Bristol', '11th Plymouth']"
+90,edgartown,"['Barnstable, Dukes and Nantucket']"
+91,egremont,['4th Berkshire']
+92,erving,['2nd Franklin']
+93,essex,['5th Essex']
+94,everett,['28th Middlesex']
+95,fairhaven,['10th Bristol']
+96,fall river,"['6th Bristol', '7th Bristol', '8th Bristol']"
+97,falmouth,"['3rd Barnstable', 'Barnstable, Dukes and Nantucket']"
+98,fitchburg,['3rd Worcester']
+99,florida,['1st Berkshire']
+100,foxborough,['1st Bristol']
+101,framingham,"['6th Middlesex', '7th Middlesex', '13th Middlesex']"
+102,franklin,['10th Norfolk']
+103,freetown,['6th Bristol']
+104,gardner,['2nd Worcester']
+105,georgetown,['2nd Essex']
+106,gill,['2nd Franklin']
+107,gloucester,['5th Essex']
+108,goshen,['1st Franklin']
+109,gosnold,"['Barnstable, Dukes and Nantucket']"
+110,grafton,['9th Worcester']
+111,granby,"['2nd Hampshire', '3rd Hampshire']"
+112,granville,['3rd Hampden']
+113,great barrington,['4th Berkshire']
+114,greenfield,['2nd Berkshire']
+115,groton,['1st Middlesex']
+116,groveland,['2nd Essex']
+117,hadley,['2nd Hampshire']
+118,halifax,['12th Plymouth']
+119,hamilton,['4th Essex']
+120,hampden,['2nd Hampden']
+121,hancock,['1st Berkshire']
+122,hanover,['5th Plymouth']
+123,hanson,['6th Plymouth']
+124,hardwick,['5th Worcester']
+125,harvard,['37th Middlesex']
+126,harwich,['4th Barnstable']
+127,hatfield,['1st Hampshire']
+128,haverhill,"['2nd Essex', '3rd Essex', '14th Essex', '15th Essex']"
+129,hawley,['2nd Berkshire']
+130,heath,['2nd Berkshire']
+131,hingham,['3rd Plymouth']
+132,hingham(plymouth county),['4th Norfolk']
+133,hinsdale,['2nd Berkshire']
+134,holbrook,"['3rd Norfolk', '5th Norfolk']"
+135,holden,['1st Worcester']
+136,holland,['1st Hampden']
+137,holliston,['8th Middlesex']
+138,holyoke,['5th Hampden']
+139,hopedale,['10th Worcester']
+140,hopkinton,['8th Middlesex']
+141,hubbardston,['5th Worcester']
+142,hudson,['3rd Middlesex']
+143,hull,['3rd Plymouth']
+144,huntington,['1st Franklin']
+145,ipswich,['4th Essex']
+146,kingston,['12th Plymouth']
+147,lakeville,['12th Bristol']
+148,lancaster,['12th Worcester']
+149,lanesborough,['1st Berkshire']
+150,lawrence,"['14th Essex', '16th Essex', '17th Essex']"
+151,lee,['4th Berkshire']
+152,leicester,['17th Worcester']
+153,lenox,['4th Berkshire']
+154,leominster,['4th Worcester']
+155,leverett,['1st Franklin']
+156,lexington,['15th Middlesex']
+157,leyden,['2nd Berkshire']
+158,lincoln,['9th Middlesex']
+159,littleton,['1st Middlesex']
+160,longmeadow,['2nd Hampden']
+161,lowell,"['16th Middlesex', '17th Middlesex', '18th Middlesex']"
+162,ludlow,['7th Hampden']
+163,lunenburg,['3rd Worcester']
+164,"lunenburg _ pcts. a, c, d",['37th Middlesex']
+165,lynn,"['8th Essex', '9th Essex', '10th Essex', '11th Essex']"
+166,lynnfield,['20th Middlesex']
+167,malden,"['32nd Middlesex', '33rd Middlesex', '35th Middlesex']"
+168,manchester-by-the-sea,['4th Essex']
+169,mansfield,"['1st Bristol', '14th Bristol', '8th Norfolk']"
+170,marblehead,['8th Essex']
+171,marion,['10th Bristol']
+172,marlborough,"['4th Middlesex', '13th Middlesex']"
+173,marshfield,['4th Plymouth']
+174,mashpee,['3rd Barnstable']
+175,mattapoisett,['10th Bristol']
+176,maynard,['3rd Middlesex']
+177,medfield,"['9th Norfolk', '13th Norfolk']"
+178,medford,"['23rd Middlesex', '34th Middlesex', '35th Middlesex']"
+179,medway,"['10th Norfolk', '10th Worcester']"
+180,melrose,['32nd Middlesex']
+181,mendon,['10th Worcester']
+182,merrimac,['2nd Essex']
+183,methuen,"['14th Essex', '15th Essex', '17th Essex']"
+184,middleborough,"['12th Bristol', '2nd Plymouth', '12th Plymouth']"
+185,middlefield,['1st Franklin']
+186,middleton,"['13th Essex', '20th Middlesex']"
+187,milford,['10th Worcester']
+188,millbury,['7th Worcester']
+189,millis,"['5th Middlesex', '9th Norfolk']"
+190,millville,['8th Worcester']
+191,milton,"['7th Norfolk', '12th Suffolk']"
+192,monroe,['2nd Berkshire']
+193,monson,['2nd Hampden']
+194,montague,['1st Franklin']
+195,monterey,['4th Berkshire']
+196,montgomery,['1st Hampshire']
+197,mount washington,['4th Berkshire']
+198,nahant,['11th Essex']
+199,nantucket,"['Barnstable, Dukes and Nantucket']"
+200,natick,['5th Middlesex']
+201,needham,['13th Norfolk']
+202,new ashford,['1st Berkshire']
+203,new bedford,"['8th Bristol', '9th Bristol', '10th Bristol', '11th Bristol', '13th Bristol']"
+204,new braintree,['5th Worcester']
+205,new marlborough,['4th Berkshire']
+206,new salem,['2nd Franklin']
+207,newbury,['2nd Essex']
+208,newburyport,['1st Essex']
+209,newton,"['10th Middlesex', '11th Middlesex', '12th Middlesex']"
+210,norfolk,['9th Norfolk']
+211,north adams,['1st Berkshire']
+212,north andover,"['14th Essex', '18th Essex']"
+213,north attleborough,['14th Bristol']
+214,north brookfield,['5th Worcester']
+215,north reading,['20th Middlesex']
+216,northampton,['1st Hampshire']
+217,northborough,"['4th Middlesex', '12th Worcester']"
+218,northbridge,['9th Worcester']
+219,northfield,['2nd Berkshire']
+220,norton,"['1st Bristol', '4th Bristol']"
+221,norwell,['5th Plymouth']
+222,norwood,['12th Norfolk']
+223,oak bluffs,"['Barnstable, Dukes and Nantucket']"
+224,oakham,['5th Worcester']
+225,orange,['2nd Franklin']
+226,orleans,['4th Barnstable']
+227,otis,['4th Berkshire']
+228,oxford,"['7th Worcester', '18th Worcester']"
+229,palmer,['1st Hampden']
+230,paxton,['1st Worcester']
+231,peabody,"['12th Essex', '13th Essex']"
+232,pelham,['3rd Hampshire']
+233,pembroke,['6th Plymouth']
+234,pepperell,['1st Middlesex']
+235,peru,['2nd Berkshire']
+236,petersham,['2nd Franklin']
+237,phillipston,['2nd Franklin']
+238,pittsfield,"['2nd Berkshire', '3rd Berkshire']"
+239,plainfield,['1st Franklin']
+240,plainville,['9th Norfolk']
+241,plymouth,"['5th Barnstable', '1st Plymouth', '12th Plymouth']"
+242,plympton,['12th Plymouth']
+243,princeton,['1st Worcester']
+244,provincetown,['4th Barnstable']
+245,quincy,"['1st Norfolk', '2nd Norfolk', '3rd Norfolk', '13th Suffolk']"
+246,randolph,"['1st Norfolk', '5th Norfolk', '7th Norfolk']"
+247,raynham,['8th Plymouth']
+248,reading,"['20th Middlesex', '30th Middlesex']"
+249,rehoboth,['4th Bristol']
+250,revere,"['16th Suffolk', '19th Suffolk']"
+251,richmond,['4th Berkshire']
+252,rochester,['10th Bristol']
+253,rockland,['5th Plymouth']
+254,rockport,['5th Essex']
+255,rowe,['2nd Berkshire']
+256,rowley,"['2nd Essex', '4th Essex']"
+257,royalson,['2nd Franklin']
+258,russell,['4th Berkshire']
+259,rutland,['1st Worcester']
+260,salem,['7th Essex']
+261,salisbury,['1st Essex']
+262,sandisfield,['4th Berkshire']
+263,sandwich,['5th Barnstable']
+264,saugus,"['9th Essex', '16th Suffolk']"
+265,savoy,['2nd Berkshire']
+266,scituate,"['3rd Plymouth', '4th Plymouth']"
+267,seekonk,['4th Bristol']
+268,sharon,['8th Norfolk']
+269,sheffield,['4th Berkshire']
+270,shelburne,['1st Franklin']
+271,sherborn,['5th Middlesex']
+272,shirley,['37th Middlesex']
+273,shrewsbury,['11th Worcester']
+274,shutesbury,['1st Franklin']
+275,somerset,['5th Bristol']
+276,somerville,"['26th Middlesex', '27th Middlesex', '34th Middlesex']"
+277,south hadley,['2nd Hampshire']
+278,southampton,['1st Hampshire']
+279,southborough,['8th Middlesex']
+280,southbridge,['6th Worcester']
+281,southwick,['3rd Hampden']
+282,spencer,"['5th Worcester', '6th Worcester']"
+283,springfield,"['6th Hampden', '7th Hampden', '9th Hampden', '10th Hampden', '11th Hampden', '12th Hampden']"
+284,sterling,"['1st Worcester', '12th Worcester']"
+285,stockbridge,['4th Berkshire']
+286,stoneham,['31st Middlesex']
+287,stoughton,"['6th Norfolk', '8th Norfolk']"
+288,stow,['3rd Middlesex']
+289,sturbridge,['1st Hampden']
+290,sudbury,['13th Middlesex']
+291,sunderland,['1st Franklin']
+292,sutton,['18th Worcester']
+293,swampscott,['8th Essex']
+294,swansea,"['4th Bristol', '5th Bristol']"
+295,taunton,"['3rd Bristol', '5th Bristol', '12th Bristol']"
+296,templeton,['2nd Franklin']
+297,tewksbury,['19th Middlesex']
+298,tewskbury,['18th Essex']
+299,tisbury,"['Barnstable, Dukes and Nantucket']"
+300,tolland,['4th Berkshire']
+301,topsfield,['4th Essex']
+302,townsend,['1st Middlesex']
+303,truro,['4th Barnstable']
+304,tyngsborough,['36th Middlesex']
+305,tyringham,['4th Berkshire']
+306,upton,['9th Worcester']
+307,uxbridge,['8th Worcester']
+308,wakefield,"['9th Essex', '32nd Middlesex']"
+309,wales,['1st Hampden']
+310,walpole,"['8th Norfolk', '9th Norfolk', '11th Norfolk', '12th Norfolk']"
+311,waltham,"['9th Middlesex', '10th Middlesex']"
+312,ware,"['1st Hampden', '5th Worcester']"
+313,wareham,['2nd Plymouth']
+314,warren,['1st Hampden']
+315,warwick,['2nd Franklin']
+316,washington,['4th Berkshire']
+317,watertown,"['10th Middlesex', '29th Middlesex']"
+318,wayland,"['13th Middlesex', '14th Norfolk']"
+319,"wd. 1, pct. a",['3rd Berkshire']
+320,wds. 2-7,['3rd Berkshire']
+321,webster,['18th Worcester']
+322,wellesley,['14th Norfolk']
+323,wellfleet,['4th Barnstable']
+324,wendell,['2nd Franklin']
+325,wenham,['4th Essex']
+326,west boylston,['14th Worcester']
+327,west bridgewater,['10th Plymouth']
+328,west brookfield,['5th Worcester']
+329,west newbury,['2nd Essex']
+330,west springfield,['6th Hampden']
+331,west stockbridge,['4th Berkshire']
+332,west tisbury,"['Barnstable, Dukes and Nantucket']"
+333,westborough,"['4th Middlesex', '8th Middlesex', '11th Worcester']"
+334,westfield,['4th Hampden']
+335,westford,['1st Middlesex']
+336,westhampton,['1st Hampshire']
+337,westminster,"['1st Worcester', '2nd Worcester']"
+338,weston,['14th Norfolk']
+339,westport,['8th Bristol']
+340,westwood,['11th Norfolk']
+341,weymouth,"['3rd Norfolk', '4th Norfolk']"
+342,whately,['1st Franklin']
+343,whitman,['7th Plymouth']
+344,wilbraham,['12th Hampden']
+345,williamsburg,['1st Franklin']
+346,williamstown,['1st Berkshire']
+347,wilmington,"['19th Middlesex', '21st Middlesex']"
+348,winchendon,['2nd Worcester']
+349,winchester,['31st Middlesex']
+350,windsor,['2nd Berkshire']
+351,winthrop,['19th Suffolk']
+352,woburn,"['15th Middlesex', '30th Middlesex']"
+353,worcester,"['13th Worcester', '14th Worcester', '15th Worcester', '16th Worcester', '17th Worcester']"
+354,worthington,['1st Franklin']
+355,wrentham,['9th Norfolk']
+356,yarmouth,"['1st Barnstable', '2nd Barnstable']"

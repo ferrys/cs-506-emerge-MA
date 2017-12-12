@@ -1,2 +1,4 @@
 .DS_Store
 .ipynb_checkpoints/
+original_data/VoteBuilder_Senate_csv.csv
+original_data/VoteBuilder_House_csv.csv

@@ -4,3 +4,5 @@ original_data/VoteBuilder_Senate_csv.csv
 original_data/VoteBuilder_House_csv.csv
 VoteBuilder_House_processed.csv
 VoteBuilder_Senate_processed.csv
+VoteBuilder_and_Census_House.csv
+VoteBuilder_and_Census_Senate.csv
